@@ -1,0 +1,2 @@
+var e=/<q>(.*?)<\/q>/s;function t(t){return t?e.test(t)?{quote:t.match(e)?.[1]||null,actualQuery:t.replace(e,``).trim()}:{quote:null,actualQuery:t}:{quote:null,actualQuery:null}}function n(t,n){let r=n.trim();return r?e.test(t)?t.replace(e,`<q>${r}</q>`):t.length===0?r:`<q>${r}</q> ${t}`:t}export{n,t};
+//# sourceMappingURL=quoteUtils-OaAZkz_A.js.map

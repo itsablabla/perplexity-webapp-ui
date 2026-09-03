@@ -1,0 +1,2 @@
+import{Er as e,xr as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./constants-Dex_NAI2.js";var r=t=>e.getItem(`${n}${t}`)!==null;function i(e,r){return t(`${n}${e}`,r)}export{i as n,r as t};
+//# sourceMappingURL=getLocalUserSettings-DrMOJt80.js.map

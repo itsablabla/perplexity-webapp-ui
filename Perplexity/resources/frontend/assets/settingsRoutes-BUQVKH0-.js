@@ -1,0 +1,2 @@
+var e=`#settings/credentials-vault`,t=({collectionUuid:t,scope:n}={})=>{let r=new URLSearchParams;n&&r.set(`scope`,n),n===`project`&&t&&r.set(`collection_uuid`,t);let i=r.toString();return`${e}${i?`?${i}`:``}`},n=e=>`/${t(e)}`,r=e=>t(e).slice(9),i=n();export{t as n,r,i as t};
+//# sourceMappingURL=settingsRoutes-BUQVKH0-.js.map

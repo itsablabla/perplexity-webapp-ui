@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1);function r({value:e,defaultValue:t,onValueChange:r}){let[i,a]=(0,n.useState)(()=>t),o=e!==void 0,s=(0,n.useRef)(o);s.current=o;let c=(0,n.useRef)(r);c.current=r;let l=(0,n.useCallback)(e=>{s.current||a(()=>e),c.current?.(e)},[]);return[e===void 0?i:e,l]}export{r as t};
+//# sourceMappingURL=useControllableValue-ZvA9F0AN.js.map

@@ -1,0 +1,2 @@
+import{so as e,ua as t}from"./platform-core-D8IQmtf1.js";import{N as n}from"./pplx-stream-CcOlSXZU.js";var r=async({entryUUID:r,reason:i,contextUUID:a,modelPreference:o,terminateRequestedAtMs:s})=>{try{let{error:t}=await n.POST(`/rest/sse/perplexity_terminate`,i,{headers:{"content-type":`application/json`},body:{entry_uuid:r,context_uuid:a,model_preference:o,terminate_requested_at_ms:s},timeoutMs:e({productionMs:5e3}),numRetries:1});return!t}catch(e){return t.error(`Failed to terminate entry`,e),!1}};export{r as t};
+//# sourceMappingURL=terminateEntry-BHEFbH4t.js.map

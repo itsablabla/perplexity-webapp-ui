@@ -1,0 +1,2 @@
+import{uo as e}from"./platform-core-D8IQmtf1.js";var t=e(`FileViewerContext`,{file:void 0,openOptions:void 0,canOpenFiles:!1,openFile:()=>{},closeViewer:()=>{},doViewerAction:()=>{},isViewerOpen:!1,setViewerDispatch:()=>{}});export{t};
+//# sourceMappingURL=fileViewerTypes-DqNxmMZN.js.map

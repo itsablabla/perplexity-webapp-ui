@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import"./search-modes-BzXcyDaj.js";import{a as n}from"./ThreadSettingsProviderShared-CDonosjO.js";import{t as r}from"./useSearchModeForSearchModel-D8m4mB5B.js";var i=e(t(),1);function a(){let{configuredModel:e}=n(),t=r();return(0,i.useMemo)(()=>t(e),[e,t])}export{a as t};
+//# sourceMappingURL=useSelectedSearchMode-zJFw8L8G.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{yn as r,yr as i}from"./platform-core-D8IQmtf1.js";import{ComputerCredentialsVaultPanel as a}from"./ComputerCredentialsVaultPage-Cy7UoI75.js";var o=n(),s=e(t(),1).memo(function(){let{status:e}=i();return e===`loading`?null:e===`authenticated`?(0,o.jsx)(a,{}):(0,o.jsx)(r,{to:`/`})});export{s as AccountCredentialsVaultPage};
+//# sourceMappingURL=credentials-vault-Bqo3pyAk.js.map

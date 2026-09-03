@@ -1,0 +1,2 @@
+var e=class extends Date{constructor(e){let t=e?new Date(e):new Date,n=Date.UTC(t.getFullYear(),t.getMonth(),t.getDate(),t.getHours(),t.getMinutes(),t.getSeconds(),t.getMilliseconds());super(n)}getTimezoneOffset(){return 0}};export{e as t};
+//# sourceMappingURL=UTCDate-DVnikXSC.js.map

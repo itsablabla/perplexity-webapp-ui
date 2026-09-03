@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=n(`MergeAgentHandlerContext`,null),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useMergeAgentHandler must be used within a MergeAgentHandlerProvider`);return e};export{a as n,i as t};
+//# sourceMappingURL=MergeAgentHandlerProviderShared-CaXgvLEy.js.map

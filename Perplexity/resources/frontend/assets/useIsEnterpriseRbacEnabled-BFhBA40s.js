@@ -1,0 +1,2 @@
+import{d as e}from"./experimentation-mwDkr0yA.js";var t=e(`enterprise-rbac-ui`),n=()=>{let{variation:e,loading:n}=t({defaultValue:!0});return{enabled:!n&&e,loading:n}};export{t as n,n as t};
+//# sourceMappingURL=useIsEnterpriseRbacEnabled-BFhBA40s.js.map

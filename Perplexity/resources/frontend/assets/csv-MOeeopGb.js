@@ -1,0 +1,3 @@
+var e=/[,"\n\r]/,t=t=>{if(!t)return String(t??``);let n=String(t).replace(/"/g,`""`);return e.test(n)?`"${n}"`:n},n=({categories:e,symbol:t,period:n})=>{for(let i of e){let e=`${t}_${n}_${i.category}_FROM_PERPLEXITY`.toLocaleUpperCase();r([i.headers,...i.rows],e)}},r=(e,n)=>{let r=e.map(e=>e.map(t).join(`,`)).join(`
+`),i=new Blob([r],{type:`text/csv`}),a=URL.createObjectURL(i),o=document.createElement(`a`);o.href=a,o.download=`${n}.csv`,o.click(),URL.revokeObjectURL(a)};export{r as n,n as t};
+//# sourceMappingURL=csv-MOeeopGb.js.map

@@ -1,0 +1,2 @@
+import{co as e,ua as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-DJ98253u.js";async function r({contextUUID:r,updatedAccess:i,rwToken:a,callback:o,reason:s}){try{let{data:t,error:c,response:l}=await n.POST(`/rest/thread/update_thread_access`,s,{body:{context_uuid:r??``,updated_access:i,read_write_token:a??``}});if(c)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to update thread access`,cause:c,status:l.status??0});o?.(t?.access)}catch(e){t.error(e),o?.(e)}}export{r as t};
+//# sourceMappingURL=useSetThreadAccess-BkbfJB47.js.map

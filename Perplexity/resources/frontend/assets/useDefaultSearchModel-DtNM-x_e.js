@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{n}from"./search-modes-BzXcyDaj.js";import{t as r}from"./useSearchModels-BYT-FwkF.js";var i=e(t(),1),a=()=>{let{getDefaultModelForMode:e}=r({reason:`use_default_search_model`});return(0,i.useMemo)(()=>e(n.SEARCH),[e])};export{a as t};
+//# sourceMappingURL=useDefaultSearchModel-DtNM-x_e.js.map

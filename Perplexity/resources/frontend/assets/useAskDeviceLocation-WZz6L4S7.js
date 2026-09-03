@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{f as n}from"./aether-core-6TfbVOZ_.js";import{t as r}from"./useDeviceLocation-CRxdaq7Q.js";var i=e(t(),1),a=(e={})=>{let{track:t}=n(),a=(0,i.useCallback)((e,n)=>t({event:e,data:n}),[t]);return r({...e,trackEvent:a})};export{a as t};
+//# sourceMappingURL=useAskDeviceLocation-WZz6L4S7.js.map

@@ -1,0 +1,2 @@
+function e(e){if(!e)return!1;let t=e.replace(/[^\d+]/g,``);return!t.startsWith(`+`)||t.length<8||t.length>18||t.length===1?!1:/^\+\d{7,17}$/.test(t)}function t(e){return/^(\+?1?\s?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}$/.test(e)}export{e as n,t};
+//# sourceMappingURL=phoneNumberUtils-D78RDEpw.js.map

@@ -1,0 +1,2 @@
+import{et as e}from"./vendors-B0VRXiug.js";import{ui as t}from"./platform-core-D8IQmtf1.js";import{gt as n,s as r}from"./aether-core-6TfbVOZ_.js";import{i}from"./pplx-icons-DwPCRnON.js";var a=e(),o=()=>(0,a.jsxs)(r,{variant:`micro`,color:`super`,className:`inline-flex items-center whitespace-nowrap`,children:[(0,a.jsx)(t,{defaultMessage:`Popular`,id:`85ac5fb3ff`}),(0,a.jsx)(`span`,{className:`ml-0.5 inline-flex`,children:(0,a.jsx)(n,{icon:i(`trending-up`),size:`tiny`})})]});export{o as t};
+//# sourceMappingURL=PopularLabel-BT1TlBev.js.map

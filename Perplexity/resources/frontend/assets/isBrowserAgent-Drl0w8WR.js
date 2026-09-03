@@ -1,0 +1,2 @@
+import{hr as e}from"./platform-core-D8IQmtf1.js";function t(t){return`${e}${t}`}function n(t){let n=t.trim();if(!n.startsWith(`pplx://mention/`))return null;let r=n.slice(e.length);return r?{email:r}:null}function r(e){return e?e.startsWith(`comet_browser_agent`):!1}export{n,t as r,r as t};
+//# sourceMappingURL=isBrowserAgent-Drl0w8WR.js.map

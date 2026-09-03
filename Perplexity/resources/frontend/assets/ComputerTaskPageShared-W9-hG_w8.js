@@ -1,0 +1,2 @@
+import{t as e}from"./MessageHelper-CHjd2mt5.js";import{t}from"./neoOnboardingThread-oCVTB77I.js";function n(e){return e.map(e=>({iconImageUrls:e.icon_image_urls,query:e.title_long??e.title,submission_query:e.query}))}function r(n,r){if(!t(n))return!1;let i=r.at(-1),a=r.some(e=>e.backend_uuid!==n?.backend_uuid&&!t(e)&&e.query_str?.trim().length);return!!(i&&e.isStatusCompleted(i)&&!a)}export{r as n,n as t};
+//# sourceMappingURL=ComputerTaskPageShared-W9-hG_w8.js.map

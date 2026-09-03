@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=()=>e.makeQueryKey(`/rest/memories/get-health-attributes`),n=()=>e.makeQueryKey(`/rest/memories/get-health-attributes-config`),r=`/rest/health-assistant/landing-page/biomarkers`,i=`/rest/health-assistant/lab-results/uploads`;export{t as i,i as n,n as r,r as t};
+//# sourceMappingURL=healthKeys-DJku9VkQ.js.map

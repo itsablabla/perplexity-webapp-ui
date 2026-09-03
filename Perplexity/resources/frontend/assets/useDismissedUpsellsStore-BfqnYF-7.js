@@ -1,0 +1,2 @@
+import{X as e}from"./vendors-B0VRXiug.js";var t=e(e=>({userId:null,dismissedNames:new Set,markDismissed:(t,n)=>e(e=>e.userId===t?{...e,dismissedNames:new Set(e.dismissedNames).add(n)}:{userId:t,dismissedNames:new Set([n])})})),n=(e,t,n)=>!e||n.userId!==t?!1:n.dismissedNames.has(e);export{t as n,n as t};
+//# sourceMappingURL=useDismissedUpsellsStore-BfqnYF-7.js.map

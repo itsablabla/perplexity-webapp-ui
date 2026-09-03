@@ -1,0 +1,2 @@
+import{co as e,so as t,ua as n}from"./platform-core-D8IQmtf1.js";import{N as r}from"./pplx-stream-CcOlSXZU.js";var i=async({contextUUID:i,stepUUID:a,result:o,reason:s})=>{try{let{error:n,response:c}=await r.POST(`/rest/sse/pro_search_step_result`,s,{body:{context_uuid:i,step_uuid:a,result:o},timeoutMs:t({productionMs:5e3}),numRetries:0});if(n)throw new e(`API_CLIENTS_ERROR`,{cause:n,status:c.status??0})}catch(e){n.error(e)}};export{i as t};
+//# sourceMappingURL=sendProSearchStepResult-CZNuYpnJ.js.map

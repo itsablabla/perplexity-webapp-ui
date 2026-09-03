@@ -1,0 +1,2 @@
+import{yr as e}from"./platform-core-D8IQmtf1.js";import{v as t}from"./platform-components-BSNYlERV.js";import{t as n}from"./useGetCountry-pxKWgSl1.js";function r(){let r=n(),{session:i}=e(),{env:{isProduction:a}}=t();return a?r===`KR`:(i?.user?.email??``).includes(`+korea@`)}export{r as t};
+//# sourceMappingURL=useShowKoreanCompliance-9WOfV0Q8.js.map

@@ -1,0 +1,2 @@
+async function e(e){let{cometAdapter:t}=e;try{await t.setCometAsDefaultBrowser(`set_default_browser`)}catch{}}export{e as handleSetDefaultBrowser};
+//# sourceMappingURL=handleSetDefaultBrowser-BUEikp1v.js.map

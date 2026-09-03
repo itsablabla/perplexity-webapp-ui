@@ -1,0 +1,2 @@
+import{co as e,so as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-CypA-bZO.js";var r=async({reason:r})=>{let{data:i,error:a,response:o}=await n.GET(`/rest/notifications/paired-devices`,r,{timeoutMs:t()});if(a)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to list paired devices`,cause:a,status:o.status??0});return i};export{r as t};
+//# sourceMappingURL=listPairedDevices-ClfCdIht.js.map

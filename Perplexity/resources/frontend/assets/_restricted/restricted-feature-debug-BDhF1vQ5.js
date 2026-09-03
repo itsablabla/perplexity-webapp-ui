@@ -1,0 +1,2 @@
+import{et as e}from"../vendors-B0VRXiug.js";import{t}from"../ConfirmationModal-CiKVxrQd.js";var n=e();function r({onClose:e,onRestart:r}){return(0,n.jsx)(t,{onClose:e,title:`Restart this sandbox?`,body:`The workspace will be preserved, but running processes will be interrupted. The panel will reconnect to the same sandbox after it pauses.`,intent:`warning`,confirmLabel:`Restart sandbox`,cancelLabel:`Cancel`,onConfirm:r})}export{r as SandboxRestartModal};
+//# sourceMappingURL=restricted-feature-debug-BDhF1vQ5.js.map

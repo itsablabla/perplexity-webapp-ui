@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=10,i=[],a=i,o=new Set,s=0;function c(){for(let e of o)e()}function l(e){s!==0&&(a=[e,...a.filter(({id:t})=>t!==e.id)].slice(0,r),c())}function u(e){return o.add(e),()=>{o.delete(e)}}function d(){return a}function f(){return i}function p(){return(0,n.useEffect)(()=>(s+=1,()=>{--s,!(s>0)&&(a=i,c())}),[]),(0,n.useSyncExternalStore)(u,d,f)}export{p as n,l as t};
+//# sourceMappingURL=recentlyCreatedSkills-BYTibci_.js.map

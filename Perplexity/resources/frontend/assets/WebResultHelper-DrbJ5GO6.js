@@ -1,0 +1,2 @@
+import{t as e}from"./UTCDate-DVnikXSC.js";var t=class{static isRecentlyTrending(t,n=432e5){let r=t.meta_data;return r?.client===`trending`?new Date().getTime()-new e(r?.published_date).getTime()<n:!1}static normalizeUrl(e){return e.replace(/\/$/,``)}static dedupWebResults(e,t,n=!1){if(!e)return[];if(n)return e.filter(e=>e.is_attachment);if(!t)return e;let r=new Set(t.map(e=>this.normalizeUrl(e.url)));return e.filter(e=>!e.url||!r.has(this.normalizeUrl(e.url)))}};export{t};
+//# sourceMappingURL=WebResultHelper-DrbJ5GO6.js.map

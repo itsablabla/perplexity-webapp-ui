@@ -1,0 +1,2 @@
+var e=class extends Error{constructor(){super(`Failed to open popup window`)}};function t(e={}){let{width:t=800,height:n=800}=e;return`width=${t},height=${n},left=${Math.round((window.screenX??0)+(window.outerWidth-t)/2)},top=${Math.round((window.screenY??0)+(window.outerHeight-n)/2)},popup=1`}function n(n){let{url:r,name:i,options:a=t(),pollIntervalMs:o=500}=n;return new Promise((t,n)=>{let s=window.open(r,i,a);if(!s){n(new e);return}let c=setInterval(()=>{s.closed&&(clearInterval(c),t())},o)})}export{t as n,n as r,e as t};
+//# sourceMappingURL=popupUtils-COudbo9h.js.map

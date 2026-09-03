@@ -1,0 +1,2 @@
+import{Bi as e}from"./platform-core-D8IQmtf1.js";function t(){return!0}function n(){return`granted`}async function r(){return(await e(`app_settings_snapshot`,void 0)).notifications_enabled}async function i(t){return await e(`app_settings_set`,{setting:{key:`notifications_enabled`,value:!0}}),!0}async function a(t){return await e(`app_settings_set`,{setting:{key:`notifications_enabled`,value:!1}}),!0}async function o(e){return!1}export{t as a,r as i,i as n,o,n as r,a as t};
+//# sourceMappingURL=pushNotifications-oyylI2m3.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{ui as r}from"./platform-core-D8IQmtf1.js";import{t as i}from"./useGetCountry-pxKWgSl1.js";var a=n(),o=e(t(),1).memo(function(){return i()===`US`?null:(0,a.jsx)(r,{defaultMessage:`USD`,id:`026a1f30ec`})});export{o as t};
+//# sourceMappingURL=USDSpan-BFBHFBQY.js.map

@@ -1,0 +1,2 @@
+function e(e,t,r=document.body){let i=URL.createObjectURL(e);try{n(i,t,r)}finally{URL.revokeObjectURL(i)}}async function t(t,r){try{let n=await fetch(t,{credentials:`same-origin`});if(!n.ok)throw Error(`download failed with status ${n.status}`);e(await n.blob(),r)}catch{n(t,r,document.body,{openInNewTab:!0})}}function n(e,t,n,r){let i=document.createElement(`a`);i.href=e,i.download=t,i.rel=`noopener noreferrer`,r?.openInNewTab&&(i.target=`_blank`),n.appendChild(i),i.click(),n.removeChild(i)}export{t as n,e as t};
+//# sourceMappingURL=browserDownload-Bd57KwIE.js.map

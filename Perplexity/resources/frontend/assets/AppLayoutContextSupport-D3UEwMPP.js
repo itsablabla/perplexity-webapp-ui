@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./AppLayoutContext-BJpHZ5B8.js";var r=e(t(),1),i=()=>{let e=(0,r.useContext)(n);if(!e)throw Error(`useAppLayout must be used within an AppLayoutProvider`);return e};export{i as t};
+//# sourceMappingURL=AppLayoutContextSupport-D3UEwMPP.js.map

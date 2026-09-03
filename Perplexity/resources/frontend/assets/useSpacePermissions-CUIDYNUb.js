@@ -1,0 +1,2 @@
+import{c as e,d as t,o as n,s as r,u as i}from"./PrivacyUtils-CgIPp1Ec.js";function a(a){let o=a?.user_permission;if(o==null)return{arePermissionsKnown:!1,isAdmin:!1,isAtLeastWriter:!1,isOwner:!1,isReadOnly:!1,isUserInvited:!1,isMember:!1};let s=e(o),c=r(o),l=s;return{arePermissionsKnown:!0,isAdmin:n(o),isAtLeastWriter:s,isOwner:t(o),isReadOnly:c&&!s,isUserInvited:i(o),isMember:l}}export{a as t};
+//# sourceMappingURL=useSpacePermissions-CUIDYNUb.js.map

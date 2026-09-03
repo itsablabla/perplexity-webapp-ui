@@ -1,0 +1,2 @@
+var e=`comet_mcp_`;function t(t){return t.startsWith(e)}function n(t){return t.replace(e,``)}function r(t){return`${e}${t}`}export{r as n,t as r,n as t};
+//# sourceMappingURL=cometMcpSourceTypes-DrcUkb4Q.js.map

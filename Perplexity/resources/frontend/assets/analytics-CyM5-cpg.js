@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";var t=e,n=e=>({event:`org audit log setting update attempted`,data:e}),r=e,i=e,a=e;export{a,r as i,n,t as r,i as t};
+//# sourceMappingURL=analytics-CyM5-cpg.js.map

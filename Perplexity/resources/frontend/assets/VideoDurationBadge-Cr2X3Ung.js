@@ -1,0 +1,2 @@
+import{et as e}from"./vendors-B0VRXiug.js";import{c as t,s as n}from"./aether-core-6TfbVOZ_.js";import{i as r}from"./DateTimeUtils-D5bkdC6M.js";var i=e();function a({duration:e}){return e===void 0||!Number.isInteger(e)||e<=0?null:(0,i.jsx)(t,{noBorder:!0,rounded:`lg`,display:`flex`,align:`center`,justify:`center`,className:`absolute bottom-2 end-2 h-6 bg-black/50 px-1.5 backdrop-blur-sm`,children:(0,i.jsx)(n,{as:`span`,color:`white`,family:`sans`,size:`xs`,weight:`medium`,tabularNums:!0,children:r(e)})})}export{a as t};
+//# sourceMappingURL=VideoDurationBadge-Cr2X3Ung.js.map

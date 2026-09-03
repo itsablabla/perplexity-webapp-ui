@@ -1,0 +1,2 @@
+import{co as e,so as t,ua as n}from"./platform-core-D8IQmtf1.js";import{u as r}from"./experimentation-mwDkr0yA.js";var i=async({reason:i})=>{try{let{error:n,data:a,response:o}=await r.GET(`/rest/user/subscription/refresh`,i,{timeoutMs:t(),headers:{"X-Perplexity-CSRF-Protection":`1`}});if(n)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to refresh subscription status`,cause:n,status:o.status??0});return a}catch(e){return n.error(e),null}};export{i as t};
+//# sourceMappingURL=refreshSubscriptionStatus-Bd-qi2W4.js.map

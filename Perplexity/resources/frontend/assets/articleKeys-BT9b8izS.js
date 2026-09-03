@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=t=>e.makeQueryKey(`/rest/article/{article_uuid_or_slug}`,{uuid:t}),n=t=>e.makeQueryKey(`/rest/article/{article_uuid_or_slug}`,{slug:t}),r=t=>e.makeQueryKey(`articleResults`,{frontend_context_uuid:t}),i=t=>e.makeQueryKey(`article-slug`,t);export{i,t as n,r,n as t};
+//# sourceMappingURL=articleKeys-BT9b8izS.js.map

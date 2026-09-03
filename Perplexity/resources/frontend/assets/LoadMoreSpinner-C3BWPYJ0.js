@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{bt as r}from"./aether-core-6TfbVOZ_.js";var i=n(),a=e(t(),1),o=({isLoading:e,onLoadMore:t})=>{let n=(0,a.useRef)(null);return(0,a.useEffect)(()=>{let e=n.current;if(!e||!t)return;let r=new IntersectionObserver(([e])=>{e?.isIntersecting&&t()});return r.observe(e),()=>r.disconnect()},[t]),(0,i.jsx)(`div`,{ref:n,className:`flex flex-row justify-center items-center`,children:e&&(0,i.jsx)(r,{})})};export{o as t};
+//# sourceMappingURL=LoadMoreSpinner-C3BWPYJ0.js.map

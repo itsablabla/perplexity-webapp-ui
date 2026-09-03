@@ -1,0 +1,2 @@
+var e=`https://www.perplexity.ai/help-center/en/articles/13838041-how-credits-work-on-perplexity`,t=`https://www.perplexity.ai/help-center/articles/13838041-how-credits-work-on-perplexity#h_c31362c9d2`,n=`https://www.perplexity.ai/help-center/en/articles/13901321-how-credits-work-for-enterprise-organizations-member-guide`,r=`free_turns_exhausted`;function i(e){return e===`insufficient_credits`||e===`free_turns_exhausted`}export{i as a,e as i,n,t as r,r as t};
+//# sourceMappingURL=constants-BB_HrccV.js.map

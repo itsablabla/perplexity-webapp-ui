@@ -1,0 +1,2 @@
+function e(){return typeof navigator<`u`&&`serviceWorker`in navigator}var t={cacheName:{prefix:`pplx`,suffix:`v2`,runtime:`runtime`,html:`html`}};function n(e){return e?t.cacheName.prefix:`${t.cacheName.prefix}-nova`}var r=[n(!0),n(!1)],i=r.map(e=>[e,t.cacheName.html,t.cacheName.suffix].join(`-`)),a=r.map(e=>[e,t.cacheName.runtime,t.cacheName.suffix].join(`-`));async function o(){if(e()){await Promise.all([...i,...a].map(e=>caches.delete(e)));return}}export{o as t};
+//# sourceMappingURL=clearServiceWorkerRuntimeCache-B50eTh8B.js.map

@@ -1,0 +1,2 @@
+var e=[`organization`,`perplexity`,`custom`],t=[`organization`],n=[];function r({scope:e,badges:t,customBadgeEnabled:n}){return n&&e===`individual`&&t.includes(`custom`)||e===`global`&&t.includes(`perplexity`)||e===`organization`&&t.includes(`organization`)}function i(e){return e===`org-settings`?`organization`:`individual`}export{i as a,r as i,n,t as r,e as t};
+//# sourceMappingURL=types-Cj4AT91N.js.map

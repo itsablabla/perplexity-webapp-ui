@@ -1,0 +1,2 @@
+var e=new Set([`secret`]),t=new Set([`client_id`,`client_secret`,`api_key`]);function n(e,t,n){let r={};for(let i of e){let e=t[i.key]??``;i.field_type===`secret`?e.length>0&&(r[i.key]=e):e!==(n?.[i.key]?.value??``)&&(r[i.key]=e)}return r}function r(e,t){return e!=null&&e.length>0||t!=null&&Object.keys(t).length>0}function i(n,r){return Object.keys(n).some(n=>t.has(n)||e.has(r.find(e=>e.key===n)?.field_type??``))}export{i as n,r,n as t};
+//# sourceMappingURL=templateSourceFieldUtils-BXUzO3P1.js.map

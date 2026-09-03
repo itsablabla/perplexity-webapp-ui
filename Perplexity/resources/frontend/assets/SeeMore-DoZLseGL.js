@@ -1,0 +1,2 @@
+import"./rolldown-runtime-CNgF_TGW.js";import{$ as e,et as t}from"./vendors-B0VRXiug.js";import{pi as n}from"./platform-core-D8IQmtf1.js";import{u as r}from"./aether-core-6TfbVOZ_.js";var i=t();e();var a=({onClick:e,label:t,disabled:a})=>{let{$t:o}=n();return(0,i.jsxs)(`div`,{className:`flex items-center gap-2 w-full`,children:[(0,i.jsx)(r,{disabled:a,variant:`text`,size:`small`,onClick:e,inline:!0,children:t??o({defaultMessage:`See more`,id:`b8360710f2`})}),(0,i.jsx)(`hr`,{className:`border-subtlest w-full`})]})};export{a as t};
+//# sourceMappingURL=SeeMore-DoZLseGL.js.map

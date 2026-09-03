@@ -1,0 +1,2 @@
+import{co as e,so as t}from"./platform-core-D8IQmtf1.js";import{u as n}from"./experimentation-mwDkr0yA.js";var r=async({settings:r,isLoggedIn:i,reason:a})=>{if(!i)return{status:`success`};let{error:o,response:s}=await n.PUT(`/rest/user/save-settings`,a,{body:{updated_settings:r},timeoutMs:t(),numRetries:1});if(o)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to save user settings`,cause:o,status:s.status??0});return{status:`success`}};export{r as t};
+//# sourceMappingURL=saveUserSettings-CBWbvQgB.js.map

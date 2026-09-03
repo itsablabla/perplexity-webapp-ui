@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{c as n}from"./MobileBottomSheet-uIxPQpx4.js";import{n as r}from"./ScrollArea-DBNdZzBn.js";function i(){let e=n();return e?{focusFirstMenuItem:e.menuItems.focusFirstMenuItem}:null}var a=e(t(),1);function o(){return(0,a.useContext)(r)}export{i as n,o as t};
+//# sourceMappingURL=useScrollArea-B6VatMG8.js.map

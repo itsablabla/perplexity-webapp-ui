@@ -1,0 +1,2 @@
+import{t as e}from"./i18n-COkBscQR.js";var t=t=>t?e(t):void 0,n=(e,n)=>{if(!e)return``;let r=t(e.currency);return r==null?``:n(e.price_minor_units/r,{style:`currency`,currency:e.currency})};export{n as t};
+//# sourceMappingURL=utils-DWPJZcJG.js.map

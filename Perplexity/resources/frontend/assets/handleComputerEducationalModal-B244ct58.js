@@ -1,0 +1,2 @@
+import{t as e}from"./openComputerEducationModal-CamV7AN9.js";function t(t){e(t.openModal,t.origin)}export{t as handleComputerEducationalModal};
+//# sourceMappingURL=handleComputerEducationalModal-B244ct58.js.map

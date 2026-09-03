@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";var t=e;function n(e,t){let n=new Set(e.map(e=>e.repository_id)),r=new Set(t.map(e=>e.repository_id)),i=[...r].filter(e=>!n.has(e)).length,a=[...n].filter(e=>!r.has(e)).length;return i===0&&a===0?null:{addedCount:i,removedCount:a,repositoryCount:t.length}}export{t as n,n as t};
+//# sourceMappingURL=teammateRepositoryAnalytics-Db0WOpBs.js.map

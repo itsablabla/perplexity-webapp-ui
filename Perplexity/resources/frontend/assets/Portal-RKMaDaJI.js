@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,m as n}from"./vendors-B0VRXiug.js";var r=e(t(),1),i=e(n(),1),a=r.memo(function({children:e,portalTarget:t}){let[n,a]=(0,r.useState)(!1);return(0,r.useEffect)(()=>(a(!0),()=>a(!1)),[]),n?(0,i.createPortal)(e,t||document.body):null});export{a as t};
+//# sourceMappingURL=Portal-RKMaDaJI.js.map

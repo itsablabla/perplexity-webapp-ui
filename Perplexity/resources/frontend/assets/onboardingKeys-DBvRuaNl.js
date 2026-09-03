@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=({subscriptionTier:t,subSegment:n})=>e.makeQueryKey(`/rest/onboarding/computer-v2`,{subscriptionTier:t,subSegment:n}),n=()=>e.makeQueryKey(`/rest/enterprise/v2/user/org-suggestions`);export{n,t};
+//# sourceMappingURL=onboardingKeys-DBvRuaNl.js.map

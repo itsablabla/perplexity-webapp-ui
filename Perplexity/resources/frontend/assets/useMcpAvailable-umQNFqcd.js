@@ -1,0 +1,2 @@
+import{o as e}from"./EntropyBrowserHooks-Rw9L_cZD.js";import{B as t}from"./experimentation-mwDkr0yA.js";import{r as n,t as r}from"./nativeClientCapabilities-CSO4EkYi.js";var i=()=>{let{variation:i}=n({defaultValue:!1}),{mcpStdioServers:a}=e(),o=r()?.local_mcp.call===!0;return(t()?i:o)&&a!==void 0};export{i as t};
+//# sourceMappingURL=useMcpAvailable-umQNFqcd.js.map

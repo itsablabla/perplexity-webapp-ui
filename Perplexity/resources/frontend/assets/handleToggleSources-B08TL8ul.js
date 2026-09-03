@@ -1,0 +1,2 @@
+import{n as e}from"./SourcesConfig-B3W6voFD.js";function t(t){let{upsellInformation:n,sources:r,overwriteSources:i,hideUpsell:a}=t,o=n.cta_information?.sources_to_toggle;if(!o||o.length===0)return;let s=e(o);if(s.length===0)return;let c=r||[],l=s.filter(e=>!c.includes(e));l.length>0&&i([...c,...l]),a?.()}export{t as handleToggleSources};
+//# sourceMappingURL=handleToggleSources-B08TL8ul.js.map

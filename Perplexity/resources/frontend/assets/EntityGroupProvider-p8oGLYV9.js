@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{uo as r}from"./platform-core-D8IQmtf1.js";var i=n(),a=e(t(),1),o=r(`EntityGroupContext`,void 0),s=a.memo(function({children:e}){let[t,n]=(0,a.useState)(!1);return(0,i.jsx)(o.Provider,{value:{viewMoreOpen:t,setViewMoreOpen:n},children:e})});export{s as t};
+//# sourceMappingURL=EntityGroupProvider-p8oGLYV9.js.map

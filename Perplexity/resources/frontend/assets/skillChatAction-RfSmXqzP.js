@@ -1,0 +1,2 @@
+import{n as e}from"./search-modes-BzXcyDaj.js";var t=/^(Use the )"([^"\r\n]+)"( skill\.)\s*/;function n(e){return`Use the "${e}" skill. `}function r(e){let n=t.exec(e),r=n?.[1],i=n?.[2]?.trim(),a=n?.[3];if(!n||!r||!i||!a)return null;let o=e.slice(n[0].length);return{beforeMention:r,skillName:i,afterMention:`${a}${o?` ${o}`:``}`}}function i(t){return{prompt:n(t.name).trimEnd(),mode:e.ASI,skills:[t]}}export{n,r,i as t};
+//# sourceMappingURL=skillChatAction-RfSmXqzP.js.map

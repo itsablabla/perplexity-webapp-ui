@@ -1,0 +1,2 @@
+var e=`onboarding.neo.`;function t(t){return!!t?.blocks?.some(t=>t.workflow_block?.steps?.some(t=>t.items?.some(t=>t.payload?.user_questions_payload?.fields?.some(t=>t.options?.some(t=>t.id?.startsWith(e))))))}export{t};
+//# sourceMappingURL=neoOnboardingThread-oCVTB77I.js.map

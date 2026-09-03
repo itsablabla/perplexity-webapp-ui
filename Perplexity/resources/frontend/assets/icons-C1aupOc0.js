@@ -1,0 +1,2 @@
+import{i as e}from"./pplx-icons-DwPCRnON.js";var t={pro:e(`custom-perplexity-copilot`),collection:e(`folders`),research:e(`telescope`),labs:e(`table-plus`),comet_login:e(`custom-brand-comet`),invite:e(`mail`),app:e(`layout-collage`),slides:e(`presentation`),document:e(`file`),plaintext:e(`file`),canvas:e(`file`),advanced_models:e(`cpu`),map_pin:e(`map-pin`),computer:e(`custom-computer`),org_invite:e(`building`)};export{t};
+//# sourceMappingURL=icons-C1aupOc0.js.map

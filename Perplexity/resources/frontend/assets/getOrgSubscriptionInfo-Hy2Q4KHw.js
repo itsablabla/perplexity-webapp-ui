@@ -1,0 +1,2 @@
+import{at as e,co as t,so as n,ua as r}from"./platform-core-D8IQmtf1.js";var i=async({headers:i,reason:a})=>{try{let{data:r,error:o,response:s}=await e.GET(`/rest/enterprise/organization/subscription-info`,a,{headers:i,timeoutMs:n({productionMs:2e3}),numRetries:1});if(o)throw new t(`API_CLIENTS_ERROR`,{cause:o,status:s.status??0});return r}catch(e){return r.error(`Failed to get org subscription info`,e),null}};export{i as t};
+//# sourceMappingURL=getOrgSubscriptionInfo-Hy2Q4KHw.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./convertToCreditsDisplay-CLNA48un.js";function t(t){let n=Number.isFinite(t.usd_cents_to_credits)&&t.usd_cents_to_credits>0?t.usd_cents_to_credits:1;return{conversionRate:n,autoRefillThreshold:e(Number.isFinite(t.auto_refill_threshold_cents)?t.auto_refill_threshold_cents:500,n,{hideDecimals:!0})}}export{t};
+//# sourceMappingURL=validateUBBConfig-C9eO1GzI.js.map

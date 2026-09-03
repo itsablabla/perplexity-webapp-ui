@@ -1,0 +1,2 @@
+function e(e){let{url:t}=e;if(!t||t.startsWith(`/`)||t.startsWith(`//`))return!1;try{return new URL(t),!1}catch{return t.toLowerCase().split(/[?#]/,1)[0]?.endsWith(`.pdf`)??!1}}function t(t,n){let r=t.meta_data;return r?.repo_type===`COLLECTION`&&!!(r.file_uuid&&t.url)||!!(n&&e(t))}export{t};
+//# sourceMappingURL=projectFileCitation-DZOS68Tj.js.map

@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=`/rest/files/list`,n=`/rest/files/list-infinite`,r=`/rest/files/has-uploaded`,i=(r,i)=>r?e.makeQueryKey(i?n:t,r):e.makeQueryKey(i?n:t),a=(t,n)=>e.makeQueryKey(`/rest/connectors/sharepoint/sites`,{...t??{},connection_uuid:n??null}),o=`/rest/file-repository/uploads`,s=t=>e.makeQueryKey(o,t),c=`/rest/files/list-errors`,l=t=>e.makeQueryKey(`download-image-url`,...t?[t]:[]);export{c as a,s as c,o as i,a as l,t as n,l as o,r,i as s,n as t};
+//# sourceMappingURL=fileKeys-TCq6lhVR.js.map

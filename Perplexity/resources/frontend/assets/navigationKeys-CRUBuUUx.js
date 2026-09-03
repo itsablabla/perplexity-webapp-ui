@@ -1,0 +1,2 @@
+import{X as e}from"./vendors-B0VRXiug.js";import{Wn as t}from"./platform-core-D8IQmtf1.js";var n=e(e=>({byEntryId:{},setRelatedQueries:(t,n)=>e(e=>({byEntryId:{...e.byEntryId,[t]:n}}))}));function r(e){return n(t=>e?t.byEntryId[e]:void 0)}var i=e=>t.makeEphemeralQueryKey(`navigationResults`,e),a=e=>t.makeEphemeralQueryKey(`navigationRequestPending`,e),o=e=>t.makeEphemeralQueryKey(`navigationClassifier`,e);export{n as a,r as i,a as n,i as r,o as t};
+//# sourceMappingURL=navigationKeys-CRUBuUUx.js.map

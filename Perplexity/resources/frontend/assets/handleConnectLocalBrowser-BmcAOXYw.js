@@ -1,0 +1,2 @@
+async function e(e){if(!e.openBrowserExtensionInstall)throw Error(`Browser extension install is unavailable`);await e.openBrowserExtensionInstall()}export{e as handleConnectLocalBrowser};
+//# sourceMappingURL=handleConnectLocalBrowser-BmcAOXYw.js.map

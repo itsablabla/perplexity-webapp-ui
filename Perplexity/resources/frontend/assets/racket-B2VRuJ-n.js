@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-CNgF_TGW.js";import{t}from"./scheme-DxbCgRoL.js";var n=e(((e,n)=>{var r=t();n.exports=i,i.displayName=`racket`,i.aliases=[`rkt`];function i(e){e.register(r),e.languages.racket=e.languages.extend(`scheme`,{"lambda-parameter":{pattern:/([(\[]lambda\s+[(\[])[^()\[\]'\s]+/,lookbehind:!0}}),e.languages.insertBefore(`racket`,`string`,{lang:{pattern:/^#lang.+/m,greedy:!0,alias:`keyword`}}),e.languages.rkt=e.languages.racket}}));export default n();
+//# sourceMappingURL=racket-B2VRuJ-n.js.map

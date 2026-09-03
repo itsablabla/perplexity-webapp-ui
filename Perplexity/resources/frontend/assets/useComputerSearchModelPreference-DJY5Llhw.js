@@ -1,0 +1,2 @@
+import{n as e}from"./search-modes-BzXcyDaj.js";import{t}from"./useSearchModels-BYT-FwkF.js";import{t as n}from"./usePreferredSearchModels-CuGl-oEq.js";function r(){let{getDefaultModelForMode:n}=t({reason:`default-computer-search-model`});return n(e.ASI)}function i(){let{getPreferredSearchModel:t}=n(),i=r();return{defaultComputerSearchModel:i,computerSearchModel:t(e.ASI)??i}}export{i as t};
+//# sourceMappingURL=useComputerSearchModelPreference-DJY5Llhw.js.map

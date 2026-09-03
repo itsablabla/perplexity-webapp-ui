@@ -1,0 +1,2 @@
+var e=`^/(finance|app/finance)/?([^/]+)?(?:/([^/]+))?(?:/([^/]+))?/?$`,t=`^/finance/?([^/]+)?(?:/([^/]+))?(?:/([^/]+))?/?$`,n=`^\\/search(?:\\/(?<new>new))?(?:\\/(?<uuid>.+))?$`;export{t as n,n as r,e as t};
+//# sourceMappingURL=routeRegexes-DNS7DzEP.js.map

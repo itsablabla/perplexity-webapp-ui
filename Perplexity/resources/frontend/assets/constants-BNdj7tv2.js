@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=e.makeEphemeralQueryKey(`/rest/homepage-widgets`),n=e.makeEphemeralQueryKey(`/rest/homepage/weather`);export{n,t};
+//# sourceMappingURL=constants-BNdj7tv2.js.map

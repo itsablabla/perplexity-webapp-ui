@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{g as n}from"./experimentation-mwDkr0yA.js";import{t as r}from"./useUserOrgData-Bvuob4se.js";var i=e(t(),1);function a(){let{isEnterprise:e}=r({reason:`max-tier`}),{variation:t,loading:a}=n({flag:`max-upsell`,defaultValue:!1});return(0,i.useMemo)(()=>({isMaxUpsellEnabled:e?!0:t,loading:a}),[t,a,e])}export{a as t};
+//# sourceMappingURL=useMaxTierEnabled-Cbx8eDQq.js.map

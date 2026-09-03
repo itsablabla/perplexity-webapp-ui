@@ -1,0 +1,2 @@
+import{f as e}from"./experimentation-mwDkr0yA.js";import{t}from"./useAutomationsV2Variation-BnrUp6Rc.js";var n={web:!1,sidebar:!1},r=e(`pplx.automations-v2.eppo_cache`,({skip:e})=>t(e)),i=({skip:e}={})=>r({defaultValue:n,skip:e});export{i as t};
+//# sourceMappingURL=useCachedAutomationsV2Variation-DhmZwCdM.js.map

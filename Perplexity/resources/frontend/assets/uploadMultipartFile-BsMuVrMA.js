@@ -1,0 +1,2 @@
+import{Or as e,co as t}from"./platform-core-D8IQmtf1.js";async function n(n,r,i,a,o){let s=new FormData;s.append(`file`,i);for(let[e,t]of o)t!==void 0&&s.append(e,t);let c=await fetch(n,{method:r,body:s,credentials:`include`,headers:e()});if(!c.ok){let e=await c.text(),n=a,r;try{r=JSON.parse(e);let t=r;n=t.detail?.message||t.message||n}catch{}throw new t(`API_CLIENTS_ERROR`,{message:n,cause:r,status:c.status})}return await c.json()}export{n as t};
+//# sourceMappingURL=uploadMultipartFile-BsMuVrMA.js.map

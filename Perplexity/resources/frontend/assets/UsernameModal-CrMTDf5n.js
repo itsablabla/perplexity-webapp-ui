@@ -1,0 +1,2 @@
+import{et as e}from"./vendors-B0VRXiug.js";import{pi as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./Modal-fSQFdj0r.js";import{t as r}from"./Username-xNpzN270.js";var i=e(),a=({onClose:e})=>{let a=t();return(0,i.jsxs)(n,{onClose:e,children:[(0,i.jsx)(n.Header,{title:a.formatMessage({defaultMessage:`Change username`,id:`26d9cb9dcf`})}),(0,i.jsx)(n.Body,{children:(0,i.jsx)(r,{isAlwaysEditing:!0,onButtonClick:e,className:`w-full`})})]})};export{a as UsernameModal};
+//# sourceMappingURL=UsernameModal-CrMTDf5n.js.map

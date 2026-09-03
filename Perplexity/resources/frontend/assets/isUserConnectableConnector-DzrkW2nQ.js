@@ -1,0 +1,2 @@
+function e(e){let t=e.source;return t&&`is_premium`in t&&t.is_premium===!0||t?.auth_scope===`system`?!1:e.auth_type===`oauth`||e.auth_type===`api_key`}export{e as t};
+//# sourceMappingURL=isUserConnectableConnector-DzrkW2nQ.js.map

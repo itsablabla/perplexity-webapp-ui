@@ -1,0 +1,2 @@
+import{Bi as e,Ji as t,Vi as n}from"./platform-core-D8IQmtf1.js";var r={buildNumber:null,currentVersion:``,state:{kind:`idle`}},i={check:()=>e(`app_update_check`,void 0),install:()=>e(`app_update_install`,void 0)},a=t({initialState:{...r,...i},read:()=>e(`app_update_snapshot`,void 0),subscribe:e=>n(`appUpdate:snapshot`,e),applySnapshot:e=>({...e,...i}),logScope:`app_update`}).useNative;export{a as t};
+//# sourceMappingURL=appUpdate-B749j0nK.js.map

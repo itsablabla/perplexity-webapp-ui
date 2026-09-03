@@ -1,0 +1,2 @@
+import{jt as e}from"./platform-core-D8IQmtf1.js";import{i as t}from"./useAsiAccessDecision-CogizKjz.js";function n(){let n=e(),{data:r,isLoading:i}=t({enabled:n});return n?{enabled:r?.denial_reason!==`admin_disabled`,loading:i}:{enabled:!0,loading:!1}}function r(){let{enabled:e}=n();return e}export{n,r as t};
+//# sourceMappingURL=useAsiAllowedByOrganization-BpNXg4NK.js.map

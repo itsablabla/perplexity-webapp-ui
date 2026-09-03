@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./ArtifactCommentsContext-gWSJgcOw.js";var r=e(t(),1);function i(){return(0,r.useContext)(n)}export{i as t};
+//# sourceMappingURL=ArtifactCommentsContextSupport--MiM1kCW.js.map

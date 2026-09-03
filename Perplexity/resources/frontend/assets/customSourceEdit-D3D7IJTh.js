@@ -1,0 +1,2 @@
+function e(e){return e!=null&&e.source_scope!==`global`&&e.template_source_id==null}function t(t){if(!t||t.type!==`remote_mcp`||!e(t))return!1;let n=`provider`in t?t.provider:null;return n==null||n===`direct`}function n(e,n){return t(e)?e?.is_created_by_current_user===!0||n===!0&&e?.source_scope===`organization`:!1}export{e as n,t as r,n as t};
+//# sourceMappingURL=customSourceEdit-D3D7IJTh.js.map

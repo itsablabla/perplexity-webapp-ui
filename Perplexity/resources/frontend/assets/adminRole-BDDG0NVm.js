@@ -1,0 +1,2 @@
+import{t as e}from"./roleLocalId-DRsBDilK.js";var t=(t,n)=>`isSystemRole`in t?t.isSystemRole&&e(t.roleId)===n:t.is_system_role&&e(t.id)===n,n=e=>t(e,`admin`),r=e=>n(e)||t(e,`billing_admin`);export{r as n,n as t};
+//# sourceMappingURL=adminRole-BDDG0NVm.js.map

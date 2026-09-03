@@ -1,0 +1,2 @@
+import{Er as e}from"./platform-core-D8IQmtf1.js";var t=`rbac-revision-token:`,n=e=>`${t}${e}`;function r(t){if(t)return e.getItem(n(t))??void 0}function i(t,r){!t||!r||e.setItem(n(t),r)}export{i as n,r as t};
+//# sourceMappingURL=revisionToken-BrYXJsCG.js.map

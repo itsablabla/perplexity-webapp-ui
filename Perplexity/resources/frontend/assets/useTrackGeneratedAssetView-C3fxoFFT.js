@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{f as n,h as r}from"./aether-core-6TfbVOZ_.js";var i=e(t(),1),a=r,o=({assetType:e,entryUUID:t,answerMode:r,reason:o,skip:s})=>{let{impression:c}=n();(0,i.useEffect)(()=>{s||!e||c(a({name:`generated asset viewed`,data:{assetType:e,entryUUID:t,answerMode:r,reason:o}}))},[c,e,t,r,o,s])};export{o as t};
+//# sourceMappingURL=useTrackGeneratedAssetView-C3fxoFFT.js.map

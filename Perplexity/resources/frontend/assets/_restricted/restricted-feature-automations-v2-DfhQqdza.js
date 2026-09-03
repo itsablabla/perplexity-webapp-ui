@@ -1,0 +1,2 @@
+function e(){return`AutomationsPage`}function t({automationIds:e,hasSearch:t}){return t?!1:new Set(e).size<10}function n(e){return e.output_kind===`new_thread`&&e.collection_uuid!==void 0}function r(e){return new Set(e.map(e=>e.automation_id))}function i(e,t){return t.size===0?e:e.filter(e=>!t.has(e.automation_id))}export{e as a,t as i,n,i as r,r as t};
+//# sourceMappingURL=restricted-feature-automations-v2-DfhQqdza.js.map

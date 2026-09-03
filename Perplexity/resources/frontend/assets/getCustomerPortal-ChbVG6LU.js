@@ -1,0 +1,2 @@
+import{co as e}from"./platform-core-D8IQmtf1.js";import{t}from"./client-BDRJxcVb.js";var n=async({headers:n,reason:r})=>{try{let{data:i,error:a,response:o}=await t.GET(`/rest/billing/get-customer-portal`,r,{headers:n,timeoutMs:3e3});if(a||i.status!==`success`)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to get customer portal`,cause:a,status:o.status??0});return i.url}catch{return null}};export{n as t};
+//# sourceMappingURL=getCustomerPortal-ChbVG6LU.js.map

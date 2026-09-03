@@ -1,0 +1,2 @@
+function e(e){return e&&`is_widget`in e&&e.is_widget===!0}function t(e){return e&&`card_type`in e}function n(e){return`is_code_interpreter`in e&&e.is_code_interpreter===!0&&e.is_image===!0}export{t as n,e as r,n as t};
+//# sourceMappingURL=types-DTiIniRx.js.map

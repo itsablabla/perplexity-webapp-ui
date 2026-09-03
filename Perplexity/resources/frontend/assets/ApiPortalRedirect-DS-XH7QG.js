@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{v as n,y as r}from"./platform-components-BSNYlERV.js";import{t as i}from"./getApiConsoleUrl-LiMZB1Id.js";var a=e(t(),1),o=()=>{let{env:e}=n();return(0,a.useEffect)(()=>{r(i({consolePath:`/`,isProduction:e.isProduction}),`Legacy API portal redirect`)},[e.isProduction]),null};export{o as ApiPortalRedirect};
+//# sourceMappingURL=ApiPortalRedirect-DS-XH7QG.js.map

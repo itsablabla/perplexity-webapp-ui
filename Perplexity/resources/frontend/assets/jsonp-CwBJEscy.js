@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-CNgF_TGW.js";import{t}from"./json-CnNvjRYf.js";var n=e(((e,n)=>{var r=t();n.exports=i,i.displayName=`jsonp`,i.aliases=[];function i(e){e.register(r),e.languages.jsonp=e.languages.extend(`json`,{punctuation:/[{}[\]();,.]/}),e.languages.insertBefore(`jsonp`,`punctuation`,{function:/(?!\s)[_$a-zA-Z\xA0-\uFFFF](?:(?!\s)[$\w\xA0-\uFFFF])*(?=\s*\()/})}}));export default n();
+//# sourceMappingURL=jsonp-CwBJEscy.js.map

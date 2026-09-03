@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=`/rest/homepage-widgets/upsell`,n=(n={})=>e.makeQueryKey(t,n),r=(t={})=>e.makeQueryKey(`/rest/computer/dashboard/upsell`,t),i=(t={})=>e.makeQueryKey(`/rest/ntp/upsell/`,t),a=()=>e.makeQueryKey(`/rest/sidebar/upsell/`);export{a as i,n,i as r,r as t};
+//# sourceMappingURL=upsellKeys-DhsZayxk.js.map

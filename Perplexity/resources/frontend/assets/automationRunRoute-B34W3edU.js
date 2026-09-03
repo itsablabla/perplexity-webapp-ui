@@ -1,0 +1,2 @@
+var e=`/computer/automations`;function t(t){return t===e||t?.startsWith(`${e}/`)===!0}function n(t){return`${e}/${encodeURIComponent(t)}`}function r(e,t,r){let i=`${n(e)}/runs/${encodeURIComponent(t)}`;return r?`${i}#${encodeURIComponent(r)}`:i}function i(e){if(e)try{return decodeURIComponent(e)}catch{return e}}export{t as i,n,r,i as t};
+//# sourceMappingURL=automationRunRoute-B34W3edU.js.map

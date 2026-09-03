@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{et as t,h as n}from"./vendors-B0VRXiug.js";var r=t(),i=e(n(),1),a=({maxColumns:e=3,children:t})=>(0,r.jsx)(`div`,{className:`@container`,children:(0,r.jsx)(`ul`,{className:(0,i.default)(`grid grid-cols-1 gap-4`,{"@lg:grid-cols-2":e>=2,"@xl:grid-cols-3":e===3}),children:t})});export{a as t};
+//# sourceMappingURL=MarketplaceGrid-Bo-JRvHv.js.map

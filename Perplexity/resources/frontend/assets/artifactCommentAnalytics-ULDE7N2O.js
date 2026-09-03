@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";function t(e){switch(e.kind){case`VISUAL_POINT`:return`visual_point`;case`VISUAL_REGION`:return`visual_region`;case`SLIDE_REGION`:return`slide_region`;default:return`text_selection`}}var n=e;export{t as n,n as t};
+//# sourceMappingURL=artifactCommentAnalytics-ULDE7N2O.js.map

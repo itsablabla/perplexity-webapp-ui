@@ -1,0 +1,2 @@
+import"./rolldown-runtime-CNgF_TGW.js";import{$ as e}from"./vendors-B0VRXiug.js";import{m as t}from"./DateTimeUtils-D5bkdC6M.js";e();function n(e,n){return n?t(e,n.endsWith(`Z`)?n:`${n}Z`)??``:``}export{n as t};
+//# sourceMappingURL=CitationUpdatedAtShared-DcZjFXOp.js.map

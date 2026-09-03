@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=()=>e.makeQueryKey(`/rest/notifications/preferences`),n=()=>e.makeQueryKey(...e.unmakeQueryKey(t()),`settings`),r=t=>{let n=e.makeQueryKey(`/rest/notifications/in-app`);return t?e.makeQueryKey(...e.unmakeQueryKey(n),`unread`):n},i=()=>e.makeQueryKey(`/rest/notifications/paired-devices`),a=()=>e.makeQueryKey(...e.unmakeQueryKey(r()),`unread-count`);export{t as a,n as i,i as n,a as r,r as t};
+//# sourceMappingURL=notificationKeys-D5UXJQIp.js.map

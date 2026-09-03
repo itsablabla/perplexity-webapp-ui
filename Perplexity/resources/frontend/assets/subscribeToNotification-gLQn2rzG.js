@@ -1,0 +1,2 @@
+import{co as e,ua as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-CypA-bZO.js";async function r({notification_type:r,reason:i}){try{let{data:t,error:a,response:o}=await n.POST(`/rest/notifications/subscribe/{notification_type}`,i,{params:{path:{notification_type:r}}});if(a)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to subscribe to notification: ${r}`,cause:a,status:o.status??0});return{data:t,response:o}}catch(e){return t.error(`Failed to subscribe to notification`,e),null}}export{r as t};
+//# sourceMappingURL=subscribeToNotification-gLQn2rzG.js.map

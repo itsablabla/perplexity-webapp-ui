@@ -1,0 +1,2 @@
+import{co as e,so as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-DJ98253u.js";var r=async({params:r,reason:i})=>{let{data:a,error:o,response:s}=await n.POST(`/rest/thread/mention`,i,{body:r,timeoutMs:t()});if(o||!a)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to share thread with mentioned users`,cause:o,status:s.status??0});return a};export{r as t};
+//# sourceMappingURL=mentionThreadMembers-Cbgvs0s3.js.map

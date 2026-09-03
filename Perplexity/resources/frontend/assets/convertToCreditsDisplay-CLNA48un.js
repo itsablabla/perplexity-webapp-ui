@@ -1,0 +1,2 @@
+var e=e=>e==null,t=({displayName:t,formattedCredits:n})=>e(t)?n:t,n=(e,t,n)=>{let i=Number.isFinite(e)?e:0,a=Number.isFinite(t)?t:1,o=i<0,s=r(Math.abs(i)*a,n);return o?`-${s}`:s};function r(e,t){return t?.hideDecimals?e.toLocaleString(`en-US`,{maximumFractionDigits:0}):t?.showDecimals?e.toLocaleString(`en-US`,{minimumFractionDigits:2,maximumFractionDigits:2}):e.toLocaleString(`en-US`)}export{t as n,e as r,n as t};
+//# sourceMappingURL=convertToCreditsDisplay-CLNA48un.js.map

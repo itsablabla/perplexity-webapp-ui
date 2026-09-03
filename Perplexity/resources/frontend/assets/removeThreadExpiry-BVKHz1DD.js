@@ -1,0 +1,2 @@
+import{co as e}from"./platform-core-D8IQmtf1.js";import{t}from"./client-DJ98253u.js";var n=async(n,r)=>{let{error:i,response:a}=await t.PUT(`/rest/thread/{entry_uuid_or_slug}`,`remove-thread-expiry`,{params:{path:{entry_uuid_or_slug:n}},body:{expired:!1}});if(i)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to remove thread expiry`,cause:i,status:a.status??0});r?.()};export{n as t};
+//# sourceMappingURL=removeThreadExpiry-BVKHz1DD.js.map

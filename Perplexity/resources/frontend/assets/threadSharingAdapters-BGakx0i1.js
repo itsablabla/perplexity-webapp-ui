@@ -1,0 +1,2 @@
+import{t as e}from"./types-DwEo5bII.js";import{t}from"./types-B87bkZtq.js";function n(n){switch(n){case t.INHERITED:throw Error(`INHERITED general access is not valid for a thread subject`);case t.RESTRICTED:return e.PRIVATE_READ;case t.SPACE:return e.COLLECTION_READ;case t.ORGANIZATION:return e.ORG_READ;case t.ORGANIZATION_EDIT:throw Error(`ORGANIZATION_EDIT general access is not valid for a thread subject`);case t.PUBLIC:return e.PUBLIC_READ}}export{n as t};
+//# sourceMappingURL=threadSharingAdapters-BGakx0i1.js.map

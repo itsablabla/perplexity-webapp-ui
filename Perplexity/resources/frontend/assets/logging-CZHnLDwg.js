@@ -1,0 +1,2 @@
+import{ua as e}from"./platform-core-D8IQmtf1.js";function t(...e){n(`[email_signin_flow] `,...e)}function n(...t){let n=new Date().toISOString();e.log(`[${n}] `,...t)}export{t};
+//# sourceMappingURL=logging-CZHnLDwg.js.map

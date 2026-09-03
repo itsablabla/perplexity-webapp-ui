@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{t as r}from"./useBoxPicker-D28zWpCU.js";import{t as i}from"./Modal-arfCthyH.js";var a=n(),o=e(t(),1),s=o.memo(function({isOpen:e,onClose:t,cleanupPicker:n}){return(0,o.useEffect)(()=>()=>{n()},[n]),(0,a.jsx)(i,{variant:`wide`,isOpen:e,onClose:t,renderCloseButton:!0,children:(0,a.jsx)(`div`,{id:r,style:{height:`800px`}})})});export{s as BoxFilePickerModal};
+//# sourceMappingURL=BoxFilePickerModal-CQZfAKvz.js.map

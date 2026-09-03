@@ -1,0 +1,2 @@
+import{i as e}from"./pplx-icons-DwPCRnON.js";import{t}from"./skillIconRegistry-BuAVhAmZ.js";var n={research:e(`telescope`),"deep-research":e(`telescope`),"model-council":e(`gavel`),loop:e(`clipboard-list`),"create-skill":e(`plus`),incognito:e(`spy`),"control-local-browser":e(`click`)};function r(r){let i=r.trim().toLowerCase(),a=Object.hasOwn(n,i)?n[i]:void 0;return t(i)??a??e(`blocks`)}export{r as t};
+//# sourceMappingURL=getMenuIcon-dLEcZ5zK.js.map

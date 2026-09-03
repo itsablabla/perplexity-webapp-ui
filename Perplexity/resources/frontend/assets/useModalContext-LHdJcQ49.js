@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{wt as n}from"./aether-core-6TfbVOZ_.js";import{n as r,t as i}from"./ModalContext-F9o8haUA.js";var a=e(t(),1);function o(){return(0,a.useContext)(n)}var s=`useModalContext must be used within a ModalProvider`;function c(){let e=(0,a.useContext)(i);r(e,s);let t=o();return(0,a.useMemo)(()=>({openModal:(n,r,i)=>e.openModal(n,r,i,{inheritScope:t})}),[e,t])}export{c as t};
+//# sourceMappingURL=useModalContext-LHdJcQ49.js.map

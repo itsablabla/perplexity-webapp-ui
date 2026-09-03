@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";import{r as t}from"./react-query-CBLgyv4N.js";function n({useCase:n}){return t({queryKey:e.makeQueryKey(`/api/intercom`,n),queryFn:()=>{let e=new URLSearchParams;return e.set(`useCase`,n),fetch(`/api/intercom?${e.toString()}`).then(e=>e.json())}})}export{n as t};
+//# sourceMappingURL=useGetUserIntercomHash-ClvWVbr4.js.map

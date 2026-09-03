@@ -1,0 +1,2 @@
+import{d as e}from"./experimentation-mwDkr0yA.js";var t=30;function n(){return t}var r=e(`thread-user-mentions`);function i(e,t){return e||t.split(`@`,1)[0]||t}export{r as n,n as r,i as t};
+//# sourceMappingURL=getUserMentionLabel-B839irlh.js.map

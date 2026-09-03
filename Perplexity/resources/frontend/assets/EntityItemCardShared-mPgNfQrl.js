@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=n(`EntityContext`,{entityId:``,menuItems:void 0,variant:void 0}),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useEntity must be used within EntityContext`);return e};export{a as n,i as t};
+//# sourceMappingURL=EntityItemCardShared-mPgNfQrl.js.map

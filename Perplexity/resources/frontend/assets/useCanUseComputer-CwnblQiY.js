@@ -1,0 +1,2 @@
+import{Qt as e}from"./platform-core-D8IQmtf1.js";import{i as t}from"./useAsiAccessDecision-CogizKjz.js";function n({enabled:n=!0}={}){let{data:r,isLoading:i,isError:a}=t({enabled:n}),{isMax:o,isEnterprise:s}=e();return a?{canUseComputer:!0,isLoading:!1}:s?r==null?{canUseComputer:!1,isLoading:i}:{canUseComputer:r.can_use_computer,isLoading:i}:r==null?{canUseComputer:o,isLoading:i}:{canUseComputer:r.can_use_computer,isLoading:i}}function r({enabled:e=!0}={}){return n({enabled:e}).canUseComputer}export{n,r as t};
+//# sourceMappingURL=useCanUseComputer-CwnblQiY.js.map

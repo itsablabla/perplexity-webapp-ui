@@ -1,0 +1,2 @@
+import{t as e}from"./useUserCapabilities-DtazMW2E.js";import{n as t}from"./useIncognito-BLQS0V7z.js";import{t as n}from"./useUserOrgData-Bvuob4se.js";var r={DEFAULT:`DEFAULT`,GOVERNMENT:`GOVERNMENT`},i=({reason:i})=>{let{organization:a}=n({reason:i}),{isGovernmentRequestOrigin:o}=e(),s=a?.settings?.always_incognito??!1,{isIncognitoLocal:c}=t();return{isIncognito:s||(c??o??!1),incognitoType:o?r.GOVERNMENT:r.DEFAULT,isAlwaysIncognitoRequired:s}};export{r as n,i as t};
+//# sourceMappingURL=useIsIncognito-CXfZoF8J.js.map

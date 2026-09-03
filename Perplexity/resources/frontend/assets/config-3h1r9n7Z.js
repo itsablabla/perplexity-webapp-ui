@@ -1,0 +1,2 @@
+var e=Object.freeze({tension:700,friction:50}),t=Object.freeze({tension:700,friction:40}),n=Object.freeze({tension:300,friction:30}),r=e,i=n;export{r as i,e as n,i as r,t};
+//# sourceMappingURL=config-3h1r9n7Z.js.map

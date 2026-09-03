@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=(0,n.createContext)(void 0),i=()=>(0,n.useContext)(r),a=(e,t)=>`${e}/debugger/${encodeURIComponent(t)}#runnerd-logs`;export{a as n,i as r,r as t};
+//# sourceMappingURL=WorkerDebugContextShared-DNpxCPrT.js.map

@@ -1,0 +1,2 @@
+import{jt as e}from"./platform-core-D8IQmtf1.js";import{t}from"./useUserOrgData-Bvuob4se.js";import{t as n}from"./useCanManageOrgSkills-DYTfBGxT.js";import{t as r}from"./useSkillsMarketplaceEnabled-ChTLoVol.js";var i=e=>{let{organization:r}=t({reason:e}),{canManageOrgSkills:i}=n(e);return r?i||!!r.settings?.org_skills_creation_allowed:!0},a=t=>{let n=e(),{enabled:a}=r(),o=i(t);return n&&a&&o};export{a as t};
+//# sourceMappingURL=useCanUploadToOrgMarketplace-DFnVsCgp.js.map

@@ -1,0 +1,2 @@
+import{et as e}from"./vendors-B0VRXiug.js";import{n as t}from"./FileHoverCard-B4TqFf60.js";import{t as n}from"./AssetCardPreview-D-bwDx7D.js";import{r}from"./sourceIcons-DZ9Ob6wI.js";var i=e(),a=({name:e,previewUrl:a,onContentClick:o,children:s})=>(0,i.jsx)(t,{name:e,icon:r,preview:(0,i.jsx)(n,{assetType:``,filename:e,previewImageUrl:a,displayName:e,icon:r}),side:`left`,triggerClassName:`w-full min-w-0`,onContentClick:o,children:s});export{a as ImageAttachmentHoverPreview};
+//# sourceMappingURL=ImageAttachmentHoverPreview-BIXefEDH.js.map

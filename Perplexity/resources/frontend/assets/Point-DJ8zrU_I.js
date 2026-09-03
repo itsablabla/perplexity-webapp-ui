@@ -1,0 +1,2 @@
+var e=function(){function e(e){var t=e.x,n=t===void 0?0:t,r=e.y,i=r===void 0?0:r;this.x=0,this.y=0,this.x=n,this.y=i}var t=e.prototype;return t.value=function(){return{x:this.x,y:this.y}},t.toArray=function(){return[this.x,this.y]},e}();export{e as t};
+//# sourceMappingURL=Point-DJ8zrU_I.js.map

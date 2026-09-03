@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=()=>e.makeQueryKey(`/rest/shopping/try-on-photo/get`,{}),n=()=>e.makeQueryKey(`shoppingTryOnBackgroundGeneration`),r=t=>e.makeQueryKey(`productTryOn`,{productImageUrl:t}),i=()=>e.makeQueryKey(`/rest/shopping/retrieve-customer-shopping-info`,{});export{t as i,i as n,r,n as t};
+//# sourceMappingURL=shoppingKeys-D_6f6wbU.js.map

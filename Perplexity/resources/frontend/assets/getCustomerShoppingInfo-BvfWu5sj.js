@@ -1,0 +1,2 @@
+import{co as e,so as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-8N34tJgf.js";var r=async({reason:r})=>{let{data:i,error:a,response:o}=await n.GET(`/rest/shopping/retrieve-customer-shopping-info`,r,{timeoutMs:t({productionMs:5e3})});if(a)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to get customer shopping info`,cause:a,status:o.status??0});return i};export{r as t};
+//# sourceMappingURL=getCustomerShoppingInfo-BvfWu5sj.js.map

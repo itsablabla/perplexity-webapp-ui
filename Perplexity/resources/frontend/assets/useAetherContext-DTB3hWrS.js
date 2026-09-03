@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";import{at as r}from"./aether-core-6TfbVOZ_.js";var i=e(t(),1),a=n(`AetherContext`,{isMobileStyle:!1,isMobileUserAgent:!1,portalTargetElement:null});function o(){return(0,i.useContext)(a)}function s(){return r()}export{o as n,s as r,a as t};
+//# sourceMappingURL=useAetherContext-DTB3hWrS.js.map

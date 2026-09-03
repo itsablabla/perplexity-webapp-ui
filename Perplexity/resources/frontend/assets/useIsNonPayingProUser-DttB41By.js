@@ -1,0 +1,2 @@
+import{Qt as e,l as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./useUserCapabilities-DtazMW2E.js";function r(){let{isEnterprise:r,subscriptionTier:i}=e(),a=t(),{isGovernmentRequestOrigin:o}=n();return i===`pro`&&!r&&o===!1&&!a}export{r as t};
+//# sourceMappingURL=useIsNonPayingProUser-DttB41By.js.map

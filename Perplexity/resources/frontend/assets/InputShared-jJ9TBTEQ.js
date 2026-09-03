@@ -1,0 +1,2 @@
+var e=e=>{e(!0)},t=e=>{setTimeout(()=>{e(!1)},0)},n;(function(e){e.INLINE=`inline`,e.LABEL=`label`})(n||={});var r=[`email`,`tel`];export{e as i,n,t as r,r as t};
+//# sourceMappingURL=InputShared-jJ9TBTEQ.js.map

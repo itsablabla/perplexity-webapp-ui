@@ -1,0 +1,2 @@
+import{t as e}from"./useEffectivePermissions-DaUq9exU.js";import{t}from"./useIsEnterpriseRbacEnabled-BFhBA40s.js";function n(){let{enabled:n}=t(),{permissions:r,isLoaded:i}=e({reason:`useCanEditCreditsUsage`,enabled:n});return!n||!i?!0:r.has(`org_credit_limits_write`)}var r=()=>{let{enabled:e,loading:n}=t();return{enabled:e,loading:n}};export{n,r as t};
+//# sourceMappingURL=useOrgCreditLimitsEnabled-CWh9A19t.js.map

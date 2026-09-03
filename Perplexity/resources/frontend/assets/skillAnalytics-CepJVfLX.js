@@ -1,0 +1,2 @@
+var e=`example-skill`,t=t=>t?.app===e;function n(e,n){return e===`organization`?`org`:t(n)?`example`:`individual`}function r(e){return e===`org-settings`?`orgSettings`:e===`collection-settings`?`collectionSettings`:e===`chat-thread`?`chatThread`:`userSettings`}export{t as i,n,e as r,r as t};
+//# sourceMappingURL=skillAnalytics-CepJVfLX.js.map

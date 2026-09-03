@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=()=>e.makeQueryKey(`/rest/email_assistant/config`),n=t=>t?e.makeQueryKey(`/rest/email_assistant/scope-status`,t):e.makeQueryKey(`/rest/email_assistant/scope-status`),r=()=>e.makeQueryKey(`/rest/meeting_assistant/schedule`),i=t=>t?e.makeQueryKey(`/rest/email_assistant/calendars`,t):e.makeQueryKey(`/rest/email_assistant/calendars`);export{r as i,t as n,n as r,i as t};
+//# sourceMappingURL=emailAssistantKeys-B4GLmUhQ.js.map

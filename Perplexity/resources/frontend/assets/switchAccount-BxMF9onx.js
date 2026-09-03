@@ -1,0 +1,2 @@
+import{Qi as e,pr as t,vr as n}from"./platform-core-D8IQmtf1.js";import{s as r}from"./queryInput-CDLOIGzr.js";function i(t){try{let n=new URL(e(`/`)),r=new URL(t,n);return r.origin!==n.origin||r.pathname.startsWith(`//`)?`/`:`${r.pathname}${r.search}${r.hash}`}catch{return`/`}}function a(a,o=`/`){r();let s=new URL(e(i(o)));s.searchParams.set(n,a),t(s.toString())}export{a as n,i as t};
+//# sourceMappingURL=switchAccount-BxMF9onx.js.map

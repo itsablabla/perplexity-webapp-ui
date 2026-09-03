@@ -1,0 +1,2 @@
+import{n as e}from"./search-modes-BzXcyDaj.js";function t(t){let n=new URLSearchParams({qfill:t.prompt});return t.skills?.length&&n.set(`qskills`,t.skills.map(e=>e.id).join(`,`)),t.mode===e.ASI&&n.set(`qmode`,`computer`),`${t.destination===`home`?`/`:`/computer`}?${n.toString()}`}export{t};
+//# sourceMappingURL=getSkillChatURL-CaUB9HVW.js.map

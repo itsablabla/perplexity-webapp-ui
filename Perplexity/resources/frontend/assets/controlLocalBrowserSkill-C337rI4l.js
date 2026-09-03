@@ -1,0 +1,2 @@
+var e=`control-local-browser`;function t(t){return t.trim().toLowerCase()===e}function n({localizedName:t,query:n}){return`${n} ${`[${t}](${`/computer/skills?skillId=${e}`})`}`}export{n,t as r,e as t};
+//# sourceMappingURL=controlLocalBrowserSkill-C337rI4l.js.map

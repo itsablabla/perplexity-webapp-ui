@@ -1,0 +1,2 @@
+var e=1e3,t=60*e,n=60*t,r=24*n,i=30*r,a=365*r,o=(o,s,c,l=`long`,u={})=>{let d=new Date(o).getTime(),f=new Date(s).getTime();if(!Number.isFinite(d)||!Number.isFinite(f))return``;let p=d-f,m=Math.abs(p),h=p>0?1:-1,g=`year`,_=a;m<t?(g=`second`,_=e):m<n?(g=`minute`,_=t):m<r?(g=`hour`,_=n):m<i?(g=`day`,_=r):m<a&&(g=`month`,_=i);let v=Math.floor(m/_);return u.includeSuffix===!1?c.formatNumber(v,{style:`unit`,unit:g,unitDisplay:l===`narrow`?`narrow`:`short`}):c.formatRelativeTime(v*h,g,{numeric:`always`,style:l})};export{o as t};
+//# sourceMappingURL=time-BJsIj0Gt.js.map

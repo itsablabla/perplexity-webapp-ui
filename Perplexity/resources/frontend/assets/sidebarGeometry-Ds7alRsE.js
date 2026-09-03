@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{h as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=`min-h-[36px]`,i=`h-[34px]`,a=`rounded-[8px]`,o=`rounded-l-[8px]`,s=`gap-1`,c=`border border-transparent hover:border-[var(--bg-subtle)] hover:bg-subtle`,l=`border border-[var(--bg-subtle)] bg-subtle`;function u(e){return(0,n.default)(i,a,`flex w-full items-center gap-2 px-2 text-left outline-hidden`,e?l:c)}export{r as a,o as i,c as n,u as o,a as r,s as t};
+//# sourceMappingURL=sidebarGeometry-Ds7alRsE.js.map

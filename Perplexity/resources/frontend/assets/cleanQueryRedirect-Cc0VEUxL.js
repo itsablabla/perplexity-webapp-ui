@@ -1,0 +1,2 @@
+import{ua as e}from"./platform-core-D8IQmtf1.js";var t=t=>{try{return new URL(t,window.location.href).hostname===window.location.hostname}catch(t){return e.warn(t),!1}},n=({redirect:e})=>{let n=typeof e==`string`?e:e?.[0];return!n||typeof n!=`string`?`/`:t(n)?n:`/`};export{n as t};
+//# sourceMappingURL=cleanQueryRedirect-Cc0VEUxL.js.map

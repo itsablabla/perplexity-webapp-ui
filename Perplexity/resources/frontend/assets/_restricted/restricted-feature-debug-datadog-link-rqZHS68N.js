@@ -1,0 +1,2 @@
+import{o as e}from"../rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"../vendors-B0VRXiug.js";import{n as r,t as i}from"./restricted-feature-debug-datadog-link-DNL0Hdy2.js";var a=n(),o=e(t(),1).memo(function(e){return(0,a.jsx)(i,{...e})});o.displayName=r();export{o as DebugDatadogLink};
+//# sourceMappingURL=restricted-feature-debug-datadog-link-rqZHS68N.js.map

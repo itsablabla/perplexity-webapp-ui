@@ -1,0 +1,2 @@
+import{r as e}from"./cometMcpSourceTypes-DrcUkb4Q.js";function t({sourceId:t,iconUrl:n}){return e(t)?n?{type:`image`,url:n}:void 0:{type:`source`,sourceId:t}}export{t};
+//# sourceMappingURL=resolveSourceMentionIcon-B7ffST9a.js.map

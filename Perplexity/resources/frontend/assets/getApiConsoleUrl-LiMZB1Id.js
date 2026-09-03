@@ -1,0 +1,2 @@
+var e=`https://console.perplexity.ai`,t=`https://console-testing.i.perplexity.ai`;function n(n){return`${n.isProduction?e:t}${n.consolePath}`}export{n as t};
+//# sourceMappingURL=getApiConsoleUrl-LiMZB1Id.js.map

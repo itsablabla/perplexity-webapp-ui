@@ -1,0 +1,2 @@
+import{m as e}from"./experimentation-mwDkr0yA.js";var t=e(`asi-knowledge-read-config`),n={};function r(){let{variation:e,loading:r}=t({defaultValue:n});return{visible:!r&&(e.ui_visible??!1),loading:r}}export{t as n,r as t};
+//# sourceMappingURL=useComputerMemoryPageVisible-zPinmI9G.js.map

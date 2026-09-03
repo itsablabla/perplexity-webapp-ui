@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{r}from"./PageLayoutContext-DedpJA6T.js";import{t as i}from"./ScrollContainerRefProvider-BHwZFmzt.js";var a=n(),o=e(t(),1);function s({children:e}){let{scrollElement:t}=r(),n=(0,o.useRef)(null);return(0,o.useLayoutEffect)(()=>{t&&(n.current=t)},[t]),(0,a.jsx)(i,{scrollContainerRef:n,children:e})}export{s as t};
+//# sourceMappingURL=PageLayoutScrollBridge-D864GdZq.js.map

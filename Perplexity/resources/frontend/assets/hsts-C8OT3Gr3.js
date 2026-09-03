@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-CNgF_TGW.js";var t=e(((e,t)=>{t.exports=n,n.displayName=`hsts`,n.aliases=[];function n(e){e.languages.hsts={directive:{pattern:/\b(?:includeSubDomains|max-age|preload)(?=[\s;=]|$)/i,alias:`property`},operator:/=/,punctuation:/;/}}}));export default t();
+//# sourceMappingURL=hsts-C8OT3Gr3.js.map

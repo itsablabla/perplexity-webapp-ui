@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=n(`ModalStackContext`,0);function a(){return(0,r.useContext)(i)}export{a as n,i as t};
+//# sourceMappingURL=ModalStackContext-BU2nFmK1.js.map

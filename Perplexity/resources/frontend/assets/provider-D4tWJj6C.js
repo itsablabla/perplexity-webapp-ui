@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{t as r}from"./react-relay-DuJ9gA7S.js";import{t as i}from"./client-iUU9I9sy.js";var a=n(),o=e(t(),1),s=r();function c({children:e,environment:t,httpUrl:n,persistedOperations:r,usePersistedQuery:c=!1,websocketUrl:l}){return(0,a.jsx)(s.RelayEnvironmentProvider,{environment:(0,o.useMemo)(()=>t??i({httpUrl:n,persistedOperations:r,usePersistedQuery:c,websocketUrl:l}),[t,n,r,c,l]),children:e})}export{c as t};
+//# sourceMappingURL=provider-D4tWJj6C.js.map

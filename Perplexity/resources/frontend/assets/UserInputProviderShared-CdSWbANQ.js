@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i={searchTerm:``,updateUserInput:e=>void 0},a=n(`UserInputStateContext`,i),o=()=>(0,r.useContext)(a)||i;export{i as n,o as r,a as t};
+//# sourceMappingURL=UserInputProviderShared-CdSWbANQ.js.map

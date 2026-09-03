@@ -1,0 +1,3 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{Wn as n,ua as r}from"./platform-core-D8IQmtf1.js";import{r as i}from"./react-query-CBLgyv4N.js";async function a(){try{return(await(await fetch(`/cdn-cgi/trace`)).text()).split(`
+`).reduce((e,t)=>{let[n,r]=t.split(`=`);return e[n]=r??``,e},{loc:`US`})}catch(e){return r.error(`Error getting Cloudflare trace`,e),{loc:`US`}}}var o=e(t(),1);function s(){let{data:e}=i({queryKey:n.makeEphemeralQueryKey(`cloudflare-trace`),queryFn:a,staleTime:1e3*60});return(0,o.useMemo)(()=>e?.loc??`US`,[e])}export{s as t};
+//# sourceMappingURL=useGetCountry-pxKWgSl1.js.map

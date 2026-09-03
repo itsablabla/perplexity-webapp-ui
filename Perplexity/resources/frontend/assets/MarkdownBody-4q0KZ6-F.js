@@ -1,0 +1,2 @@
+import"./rolldown-runtime-CNgF_TGW.js";import{$ as e,et as t}from"./vendors-B0VRXiug.js";import{t as n}from"./MarkdownRenderer-BRKQAgOz.js";var r=t();e();var i=({body:e})=>(0,r.jsx)(n,{str:e,final:!0});export{i as MarkdownBody};
+//# sourceMappingURL=MarkdownBody-4q0KZ6-F.js.map

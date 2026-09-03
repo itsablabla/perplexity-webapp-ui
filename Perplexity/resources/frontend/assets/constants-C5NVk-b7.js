@@ -1,0 +1,2 @@
+var e=`/computer/tasks`;`${e}`;var t=/^(\/projects\/[^/]+)\/sessions\/[^/]+(?:\/)?$/,n=/^\/workspace\/[^/]+\/sessions\/[^/]+(?:\/)?$/,r=/^\/session\/[^/]+(?:\/)?$/,i=e=>e!=null&&(t.test(e)||n.test(e)||r.test(e)),a=`sessionScope`,o=e=>e===`mine`?`mine`:`all`,s=e=>e===`all`?void 0:e,c=e=>e!=null&&(e.startsWith(`/computer`)||i(e)),l=(e,n)=>{let r=e?.match(t)?.[1];if(!r)return null;let i=s(o(n?.get(a)));return i?`${r}?${new URLSearchParams({[a]:i}).toString()}`:r};export{i,l as n,c as r,e as t};
+//# sourceMappingURL=constants-C5NVk-b7.js.map

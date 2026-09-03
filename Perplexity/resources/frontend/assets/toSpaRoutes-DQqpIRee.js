@@ -1,0 +1,2 @@
+function e(e){let n={};for(let r of Object.keys(e))n[r]=t(r);return n}function t(e){return{path:e,href:(...t)=>{let n=t[0],r=e;if(n?.path)for(let[e,t]of Object.entries(n.path))r=r.replace(`:${e}`,encodeURIComponent(t));if(n?.search){let e=new URLSearchParams;for(let[t,r]of Object.entries(n.search))if(r!==void 0)if(Array.isArray(r))for(let n of r)e.append(t,String(n));else e.append(t,String(r));let t=e.toString();t&&(r+=`?${t}`)}return r}}}function n(e){return Object.keys(e)}export{e as n,n as t};
+//# sourceMappingURL=toSpaRoutes-DQqpIRee.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{yn as r}from"./platform-core-D8IQmtf1.js";import{g as i}from"./access-C2Thikf2.js";import{b as a}from"./settings.html-Clu5vCBK.js";var o=n(),s=e(t(),1),c=s.memo(function(){return(0,o.jsx)(a,{state:i(),Authorized:l})}),l=s.memo(function(){return(0,o.jsx)(r,{to:`/account/org/details`,replace:!0})});export{c as OrgIndexPage};
+//# sourceMappingURL=org-IYXUwRm3.js.map

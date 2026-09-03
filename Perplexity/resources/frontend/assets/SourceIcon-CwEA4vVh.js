@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./useSourceMeta-cSn4kv_3.js";var r=e(t(),1).memo(function({sourceId:e,size:t=`default`}){let{getIcon:r}=n({sourceId:e});return r(t)});export{r as t};
+//# sourceMappingURL=SourceIcon-CwEA4vVh.js.map

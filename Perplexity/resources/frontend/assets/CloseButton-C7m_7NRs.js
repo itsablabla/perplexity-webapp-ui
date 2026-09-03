@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{pi as r}from"./platform-core-D8IQmtf1.js";import{u as i}from"./aether-core-6TfbVOZ_.js";import{i as a}from"./pplx-icons-DwPCRnON.js";var o=n(),s=e(t(),1).memo(function({onClick:e,size:t=`small`,variant:n=`text`,rounded:s=!0}){let{$t:c}=r();return(0,o.jsx)(i,{icon:a(`x`),"aria-label":c({defaultMessage:`Close`,id:`7e14727493`}),variant:n,size:t,rounded:s,onClick:e})});export{s as t};
+//# sourceMappingURL=CloseButton-C7m_7NRs.js.map

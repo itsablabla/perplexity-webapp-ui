@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=t=>e.makeQueryKey(`/rest/tasks/{task_id}`,t),n=t=>e.makeQueryKey(`/rest/tasks/`,...t?[t]:[]),r=t=>t===void 0?e.makeQueryKey(`/rest/spaces/{space_uuid}/tasks`):e.makeQueryKey(`/rest/spaces/{space_uuid}/tasks`,t),i=t=>t===void 0?e.makeQueryKey(`/rest/spaces/{space_uuid}/recurring_tasks`):e.makeQueryKey(`/rest/spaces/{space_uuid}/recurring_tasks`,t),a=()=>e.makeQueryKey(`/rest/tasks/shortcuts/mentions`);export{n as a,t as i,i as n,r,a as t};
+//# sourceMappingURL=tasksKeys-D9fFJFCN.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{s as r}from"./aether-core-6TfbVOZ_.js";var i=n(),a=e(t(),1).memo(function({text:e}){return(0,i.jsx)(r,{variant:`tiny`,children:(0,i.jsx)(`span`,{className:`text-negative-primary`,children:e})})});export{a as t};
+//# sourceMappingURL=FormError-BEaann9N.js.map

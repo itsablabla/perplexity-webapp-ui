@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=e=>e.split(`?`)[0]??e,n=n=>e.makeQueryKey(`skill-file-content`,t(n)),r=(n,r,i)=>e.makeQueryKey(`skill-file-entry`,t(n),r,i);export{r as n,n as t};
+//# sourceMappingURL=skillKeys-UUz8pzKt.js.map

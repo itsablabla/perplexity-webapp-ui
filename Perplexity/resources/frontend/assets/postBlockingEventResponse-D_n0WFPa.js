@@ -1,0 +1,2 @@
+import{co as e,so as t,ua as n}from"./platform-core-D8IQmtf1.js";import{N as r}from"./pplx-stream-CcOlSXZU.js";var i=async i=>{try{let{data:n,error:a,response:o}=await r.POST(`/rest/sse/blocking_event_response`,`send blocking event response`,{body:{response:i},timeoutMs:t()});if(a)throw new e(`API_CLIENTS_ERROR`,{cause:a,status:o.status??0});return n?.status===`completed`}catch(e){return n.error(`Error sending blocking event response`,{error:e,response:i}),!1}};export{i as t};
+//# sourceMappingURL=postBlockingEventResponse-D_n0WFPa.js.map

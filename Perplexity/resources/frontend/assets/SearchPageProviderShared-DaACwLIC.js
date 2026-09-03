@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=n(`SearchPageContext`,{activeEntryIdx:0,activeEntryUuid:void 0,pinnedEntryIdx:-1,viewTitle:null,setViewTitle:()=>{},activeThreadTab:`default`,setActiveThreadTab:()=>{}}),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useSearchPage must be used within an SearchPageProvider`);return e};export{a as n,i as t};
+//# sourceMappingURL=SearchPageProviderShared-DaACwLIC.js.map

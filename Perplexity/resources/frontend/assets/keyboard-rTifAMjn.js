@@ -1,0 +1,2 @@
+var e=e=>(e.code===`Enter`||e.key===`Enter`||e.keyCode===13)&&!e.shiftKey,t=(t,n)=>{if(e(t)){if(n.isComposing||t.keyCode===229){t.preventDefault();return}if(n.enterKeyBehavior===`newline`)return;t.preventDefault()}n.onKeyDown?.(t)};export{t};
+//# sourceMappingURL=keyboard-rTifAMjn.js.map

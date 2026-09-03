@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";var t=e,n=e,r=e,i=e,a=e,o=e,s=e,c=e,l=e,u=e,d=e,f=e,p=e,m=e,h=e,g=e,_=e,v={event:`collection project memory usage selected`,data:{}},y=e,b=e,x=e,S=e,C=e;export{u as C,l as S,t as _,g as a,c as b,x as c,f as d,a as f,n as g,r as h,v as i,S as l,i as m,y as n,m as o,o as p,b as r,p as s,_ as t,C as u,h as v,s as x,d as y};
+//# sourceMappingURL=analytics-D52pqeXF.js.map

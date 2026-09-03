@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=(0,n.createContext)(void 0),i=r.Provider;function a(){return(0,n.useContext)(r)}export{a as n,i as t};
+//# sourceMappingURL=commandMenuItemsImplementationShared-Cs9wKfg-.js.map

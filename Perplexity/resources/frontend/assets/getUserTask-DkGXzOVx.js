@@ -1,0 +1,2 @@
+import{co as e,so as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-d6xgcUWZ.js";import{n as r}from"./settings-D-H0QwX1.js";var i=async({taskId:i,headers:a,reason:o})=>{let{data:s,error:c,response:l}=await n.GET(`/rest/tasks/{task_id}`,o,{params:{path:{task_id:i}},timeoutMs:t(),numRetries:2,headers:a});if(c)throw new e(`API_CLIENTS_ERROR`,{message:`Failed to get user task`,cause:c,status:l.status??0});return s?.task?r(s.task):null};export{i as t};
+//# sourceMappingURL=getUserTask-DkGXzOVx.js.map

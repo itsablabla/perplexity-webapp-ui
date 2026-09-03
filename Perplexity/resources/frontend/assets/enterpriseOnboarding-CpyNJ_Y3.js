@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";var t=e,n=`/onboarding/org/create`,r=`return_to`,i=`enterprise-upsell`,a=`org-deleted`;`${i}`;var o=e=>e?`${n}?${new URLSearchParams({[r]:e}).toString()}`:n;o(`home`);var s=o(`settings`);export{t as a,a as i,s as n,i as r,r as t};
+//# sourceMappingURL=enterpriseOnboarding-CpyNJ_Y3.js.map

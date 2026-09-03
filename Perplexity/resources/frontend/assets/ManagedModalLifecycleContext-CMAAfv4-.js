@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=(0,n.createContext)(null);function i(){return(0,n.useContext)(r)}export{i as n,r as t};
+//# sourceMappingURL=ManagedModalLifecycleContext-CMAAfv4-.js.map

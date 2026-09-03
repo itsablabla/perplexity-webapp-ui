@@ -1,0 +1,2 @@
+import{ua as e}from"./platform-core-D8IQmtf1.js";import{t}from"./postBlockingEventResponse-D_n0WFPa.js";async function n(n){let{upsellInformation:r,lastResult:i,hideUpsell:a}=n;if(r.upsell_type!==`WAIT_FOR_CANVAS_GENERATION_CONFIRMATION`)return;let o=r.backend_uuid||i?.backend_uuid;if(o)try{await t({uuid:o,event_type:`CANVAS_GENERATION_CONFIRMATION`,canvas_generation_action:!1}),a?.()}catch(t){e.error(`Error sending canvas cancellation`,{error:t})}}export{n as handleNoCanvasGeneration};
+//# sourceMappingURL=handleNoCanvasGeneration-BSPvu44w.js.map

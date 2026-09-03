@@ -1,0 +1,2 @@
+import{t as e}from"./cometUtils-C_-0sXB8.js";var t=/^\/b\//;function n(e){return e&&t.test(e)}function r(e){return e?new URL(window.location.href).pathname.endsWith(`/search/${e}`):!1}function i(){return e()?`/b/home`:`/`}export{n,r,i as t};
+//# sourceMappingURL=routes-B-GZmq7K.js.map

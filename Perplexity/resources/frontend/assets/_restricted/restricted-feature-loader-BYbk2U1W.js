@@ -1,0 +1,2 @@
+import{r as e}from"../rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"../vendors-B0VRXiug.js";var r=e({RestrictedFeatureLoader:()=>a}),i=n();t();function a({children:e}){return(0,i.jsx)(i.Fragment,{children:e})}export{r as t};
+//# sourceMappingURL=restricted-feature-loader-BYbk2U1W.js.map

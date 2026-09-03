@@ -1,0 +1,2 @@
+var e=e=>e.routeType===`asset`?{page_type:`finance`,data:{asset_symbol:e.assetSymbol,...e.assetName?{asset_name:e.assetName}:{},section_name:e.section,country:e.country}}:{page_type:`finance`,data:{section_name:e.section,country:e.country}},t=e=>e.routeType===`asset`?`ticker:${e.assetSymbol.toUpperCase()}`:e.section===`market`?`tab:market:${e.country}`:`tab:${e.section}`;export{t as n,e as t};
+//# sourceMappingURL=page-identity-BeK7jBRQ.js.map

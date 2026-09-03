@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-CNgF_TGW.js";var t=e(((e,t)=>{t.exports=n,n.displayName=`csv`,n.aliases=[];function n(e){e.languages.csv={value:/[^\r\n,"]+|"(?:[^"]|"")*"(?!")/,punctuation:/,/}}}));export default t();
+//# sourceMappingURL=csv-Dz5O2ZSa.js.map

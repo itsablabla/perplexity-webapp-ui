@@ -1,0 +1,2 @@
+import{et as e}from"./vendors-B0VRXiug.js";import{t}from"./ScrollContainerRefProviderShared-ClEGYymi.js";var n=e(),r=({children:e,scrollContainerRef:r})=>(0,n.jsx)(t.Provider,{value:{scrollContainerRef:r},children:e});export{r as t};
+//# sourceMappingURL=ScrollContainerRefProvider-BHwZFmzt.js.map

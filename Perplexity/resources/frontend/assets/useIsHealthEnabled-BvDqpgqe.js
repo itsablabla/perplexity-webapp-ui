@@ -1,0 +1,2 @@
+import{d as e}from"./experimentation-mwDkr0yA.js";var t=e(`is-health-assistant-enabled`),n=()=>{let{variation:e,loading:n}=t({defaultValue:!1});return{enabled:e,loading:n}};export{n as t};
+//# sourceMappingURL=useIsHealthEnabled-BvDqpgqe.js.map

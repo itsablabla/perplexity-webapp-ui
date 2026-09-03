@@ -1,0 +1,2 @@
+import{Nt as e,Pt as t}from"./platform-core-D8IQmtf1.js";import{d as n,f as r}from"./experimentation-mwDkr0yA.js";var i=r(`pplx.skills-marketplace-anonymous.eppo_cache`,n(`skills-marketplace-anonymous`)),a=n(`skills-marketplace`);function o(n){let r=t(),o=e(),s=n||r,c=a({defaultValue:!1,skip:s||!o}),l=i({defaultValue:!1,skip:s||o});return n?{enabled:!1,loading:!1}:r?{enabled:!1,loading:!0}:o?{enabled:c.variation,loading:c.loading}:{enabled:l,loading:!1}}export{o as t};
+//# sourceMappingURL=useSkillsMarketplaceEnabled-ChTLoVol.js.map

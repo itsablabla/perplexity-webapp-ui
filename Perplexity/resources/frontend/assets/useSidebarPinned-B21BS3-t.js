@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{d as n}from"./platform-components-BSNYlERV.js";import{n as r}from"./getLocalUserSettings-DrMOJt80.js";var i=e(t(),1);function a(){let{isMobileStyle:e}=n(),[t,a,o]=r(`isSidebarPinned`,!0);return(0,i.useMemo)(()=>[e||t,a,o],[t,a,o,e])}export{a as t};
+//# sourceMappingURL=useSidebarPinned-B21BS3-t.js.map

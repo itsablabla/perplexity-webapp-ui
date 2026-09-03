@@ -1,0 +1,2 @@
+import{jt as e}from"./platform-core-D8IQmtf1.js";import{d as t}from"./experimentation-mwDkr0yA.js";var n=t(`sharing-permissions-ui`);function r(){let t=e(),{variation:r}=n({defaultValue:!1});return t&&r}export{r as t};
+//# sourceMappingURL=useIsSharingPermissionsUiEnabled-B9DjIGSD.js.map

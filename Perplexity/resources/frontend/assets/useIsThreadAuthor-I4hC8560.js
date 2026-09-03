@@ -1,0 +1,2 @@
+import{a as e}from"./ResultsContext-Bn6zf8eN.js";import{t}from"./useRWToken-GA5xYHyz.js";var n=()=>{let n=t(),{inFlight:r}=e();return!!n||r};export{n as t};
+//# sourceMappingURL=useIsThreadAuthor-I4hC8560.js.map

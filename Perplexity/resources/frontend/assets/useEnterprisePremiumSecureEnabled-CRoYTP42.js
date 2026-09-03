@@ -1,0 +1,2 @@
+import{g as e}from"./experimentation-mwDkr0yA.js";function t(){let{variation:t}=e({flag:`enterprise-premium-secure`,defaultValue:!1});return t}export{t};
+//# sourceMappingURL=useEnterprisePremiumSecureEnabled-CRoYTP42.js.map

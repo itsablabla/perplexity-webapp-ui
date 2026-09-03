@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";var n=e(t(),1),r=()=>{let[e,t]=n.useState(!1);return n.useEffect(()=>{t(!0)},[]),e};export{r as t};
+//# sourceMappingURL=useHasMounted-BHG5dAfR.js.map

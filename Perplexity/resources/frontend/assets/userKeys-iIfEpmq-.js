@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=`/rest/user/settings`,n=()=>e.makeQueryKey(t),r=(n={})=>e.makeQueryKey(t,n),i=()=>e.makeQueryKey(`/rest/user/site-instructions`,{}),a=()=>e.makeQueryKey(`/rest/user/get_user_ai_profile`,{}),o=()=>e.makeQueryKey(`/rest/user/promotions`,{}),s=()=>e.makeQueryKey(`/rest/user/privacy/export/status`,{}),c=t=>e.makeQueryKey(`/rest/auth/get_special_profile`,{profile_name:t});export{o as a,i as c,a as i,c as n,r as o,s as r,n as s,t};
+//# sourceMappingURL=userKeys-iIfEpmq-.js.map

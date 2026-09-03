@@ -1,0 +1,2 @@
+import{m as e}from"./experimentation-mwDkr0yA.js";var t={max_plan_monthly_credits:1e4,max_plan_bonus_credits:35e3,pro_plan_bonus_credits:4e3},n=e(`asi-ubb-consumer-plan-config`),r=e=>n({defaultValue:t,skip:e});export{r as t};
+//# sourceMappingURL=useAsiUbbConsumerPlanConfigVariation-DQYo4mVf.js.map

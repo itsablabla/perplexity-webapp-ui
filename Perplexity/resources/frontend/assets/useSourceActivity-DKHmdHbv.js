@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{xr as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=`pplx_source_activity`,a=()=>{let[e,t]=n(i,[]),a=(0,r.useCallback)(e=>{t(t=>{let n=t.filter(t=>t.sourceType!==e);return[{sourceType:e,lastUsedAt:Date.now()},...n].slice(0,25)})},[t]);return(0,r.useMemo)(()=>({activity:e,trackSourceActivity:a}),[e,a])};export{a as t};
+//# sourceMappingURL=useSourceActivity-DKHmdHbv.js.map

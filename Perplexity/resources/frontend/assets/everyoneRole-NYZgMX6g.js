@@ -1,0 +1,2 @@
+import{di as e}from"./platform-core-D8IQmtf1.js";import{t}from"./roleLocalId-DRsBDilK.js";function n(e){return typeof e==`string`?t(e)===`member`:`isSystemRole`in e?e.isSystemRole&&t(e.roleId)===`member`:e.is_system_role&&t(e.id)===`member`}var r=e({defaultMessage:`All Members`,id:`7f06ab0061`});export{n,r as t};
+//# sourceMappingURL=everyoneRole-NYZgMX6g.js.map

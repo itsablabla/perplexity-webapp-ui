@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{t as r}from"./provider-D4tWJj6C.js";import{t as i}from"./automationsRelayEnvironment-Da_1e-vs.js";var a=n(),o=e(t(),1),s=o.memo(function({children:e,fallback:t}){return(0,a.jsx)(r,{environment:i(),children:(0,a.jsx)(o.Suspense,{fallback:t,children:e})})});export{s as t};
+//# sourceMappingURL=AutomationData-Bl5l0F30.js.map

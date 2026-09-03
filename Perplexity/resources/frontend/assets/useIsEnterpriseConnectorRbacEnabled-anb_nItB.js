@@ -1,0 +1,2 @@
+import{d as e}from"./experimentation-mwDkr0yA.js";var t=e(`enterprise-connector-rbac-enabled`),n=()=>{let{variation:e,loading:n}=t({defaultValue:!1});return{enabled:!n&&e,loading:n}};export{n as t};
+//# sourceMappingURL=useIsEnterpriseConnectorRbacEnabled-anb_nItB.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./useUserSettingsQuery-DTkhxjHL.js";var r=e(t(),1),i=Object.freeze({}),a=({reason:e,enabled:t=!0,skipConnectorPickerCredentials:a=!0})=>{let{connectors:o,hasLoadedSettings:s}=n({reason:e,enabled:t,skipConnectorPickerCredentials:a}),c=(0,r.useMemo)(()=>o?.connectors?.length?o.connectors.reduce((e,t)=>(e[t.name]=t,e),{}):i,[o]);return(0,r.useMemo)(()=>({connectorsMap:c,hasLoadedSettings:s}),[c,s])};export{a as t};
+//# sourceMappingURL=useConnectorsMap-CCWSPo7O.js.map

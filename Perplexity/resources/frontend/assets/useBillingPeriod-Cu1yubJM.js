@@ -1,0 +1,2 @@
+import{pn as e}from"./platform-core-D8IQmtf1.js";var t=`interval`;function n({ignoreUrlParams:t=!1}={}){let n=e();return{billingPeriod:!t&&n.get(`interval`)===`monthly`?`monthly`:`yearly`}}export{n,t};
+//# sourceMappingURL=useBillingPeriod-Cu1yubJM.js.map

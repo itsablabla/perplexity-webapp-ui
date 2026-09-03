@@ -1,0 +1,2 @@
+var e=(e,t)=>{try{return new Intl.NumberFormat(t,{style:`currency`,currency:e.toUpperCase(),currencyDisplay:`symbol`}).format(0).replace(/[0-9.,\s]/g,``).trim()||`$`}catch{return`$`}};export{e as t};
+//# sourceMappingURL=formatCurrency-UuZcVc3H.js.map

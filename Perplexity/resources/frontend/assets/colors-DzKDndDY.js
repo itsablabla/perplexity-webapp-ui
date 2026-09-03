@@ -1,0 +1,2 @@
+function e(e){return{backgroundColor:`var(--decoration-${e}-bg-subtle)`,foregroundColor:`var(--decoration-${e}-fg-primary)`}}function t(e){return`var(--decoration-${e}-bg-strong)`}export{e as n,t};
+//# sourceMappingURL=colors-DzKDndDY.js.map

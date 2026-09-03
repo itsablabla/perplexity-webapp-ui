@@ -1,0 +1,2 @@
+import"../rolldown-runtime-CNgF_TGW.js";import{$ as e,et as t}from"../vendors-B0VRXiug.js";import{t as n}from"./restricted-feature-teammate-workstream-B73YGWWp.js";var r=t();e();var i=({message:e,originatingToolCallId:t})=>(0,r.jsx)(`div`,{"data-originating-tool-call-id":t,"data-presentation":`text`,children:(0,r.jsx)(n,{body:e})});export{i as TeammateSendMessageWorkflowItem};
+//# sourceMappingURL=restricted-feature-teammate-workstream-BFvqt2X5.js.map

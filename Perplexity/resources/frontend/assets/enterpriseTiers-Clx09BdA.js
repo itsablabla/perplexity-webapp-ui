@@ -1,0 +1,2 @@
+import{fi as e}from"./platform-core-D8IQmtf1.js";var t=e({basic:{defaultMessage:`Enterprise Basic`,id:`28d6e4e1d7`},pro:{defaultMessage:`Enterprise Pro`,id:`6322684844`},max:{defaultMessage:`Enterprise Max`,id:`5ef6af8a9d`}}),n={basic:`basic`,pro:`pro`,max:`max`},r=e=>Object.keys(n).includes(e),i=(e,t)=>{let r=Object.keys(n);return r.indexOf(e)<r.indexOf(t)},a={enterprise_pro:`pro`,enterprise_max:`max`},o=e=>a[e];export{t as i,r as n,i as r,o as t};
+//# sourceMappingURL=enterpriseTiers-Clx09BdA.js.map

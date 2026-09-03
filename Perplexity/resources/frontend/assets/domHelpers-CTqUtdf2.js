@@ -1,0 +1,2 @@
+var e=class{static isAnyInputElementFocused(){let e=document.activeElement;return!!(e&&(e.tagName===`INPUT`||e.tagName===`TEXTAREA`||e.getAttribute(`contenteditable`)===`true`||e.getAttribute(`role`)===`textbox`))}};export{e as t};
+//# sourceMappingURL=domHelpers-CTqUtdf2.js.map

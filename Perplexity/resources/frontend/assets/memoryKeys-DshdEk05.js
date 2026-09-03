@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=t=>{let{searchQuery:n,categories:r,spaceUuid:i}=t??{},a=n!==void 0||r&&r.length>0;return i?a?e.makeQueryKey(`/rest/memories/list`,`space`,i,{searchQuery:n,categories:r}):e.makeQueryKey(`/rest/memories/list`,`space`,i):a?e.makeQueryKey(`/rest/memories/list`,{searchQuery:n,categories:r}):e.makeQueryKey(`/rest/memories/list`)};export{t};
+//# sourceMappingURL=memoryKeys-DshdEk05.js.map

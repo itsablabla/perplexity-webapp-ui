@@ -1,0 +1,2 @@
+import{Er as e}from"./platform-core-D8IQmtf1.js";var t=`pplx.web-push.restore`;function n(){e.setItem(t,`true`,{global:!0})}function r(){e.removeItem(t,{global:!0})}export{n,r as t};
+//# sourceMappingURL=pushNotificationsRestore-DxGKOyTz.js.map

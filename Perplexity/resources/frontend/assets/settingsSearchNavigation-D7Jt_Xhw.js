@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{_n as n}from"./platform-core-D8IQmtf1.js";import{a as r,n as i}from"./settingsHash-FtOk1bS8.js";import{t as a}from"./SettingsSearchProviderShared-D9XDLHmu.js";var o=e(t(),1),s=()=>{let e=n();return(0,o.useCallback)((t,n)=>{r(e,`${i(t)}?${a}=${encodeURIComponent(n)}`)},[e])};export{s as t};
+//# sourceMappingURL=settingsSearchNavigation-D7Jt_Xhw.js.map

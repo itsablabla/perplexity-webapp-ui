@@ -1,0 +1,2 @@
+import{t as e}from"./ComputerThreadStatusSummaryShared-COtTYRIs.js";function t(e){return e===`pending`||e===`blocked`}function n(t,n,r,i,a,o){return r===`pending`&&a?a:e(t,n,r,i,r===`blocked`?a:void 0,o)}export{t as n,n as t};
+//# sourceMappingURL=computerThreadStatusLabel-CrKO7byN.js.map

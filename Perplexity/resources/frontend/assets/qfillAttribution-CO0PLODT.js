@@ -1,0 +1,2 @@
+import{Ar as e}from"./platform-core-D8IQmtf1.js";var t=`pplx.qfillAttribution.relatedQueryUUID`;function n(n){e.setItem(t,n)}function r(){let n=e.getItem(t);return n&&e.removeItem(t),n}export{n,r as t};
+//# sourceMappingURL=qfillAttribution-CO0PLODT.js.map

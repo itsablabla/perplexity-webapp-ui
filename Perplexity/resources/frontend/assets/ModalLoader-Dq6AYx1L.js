@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{bt as r}from"./aether-core-6TfbVOZ_.js";var i=n(),a=e(t(),1).memo(function(){return(0,i.jsx)(`div`,{className:`bg-backdrop fixed inset-0 z-[999] flex items-center justify-center backdrop-blur-xs`,children:(0,i.jsx)(r,{})})});export{a as t};
+//# sourceMappingURL=ModalLoader-Dq6AYx1L.js.map

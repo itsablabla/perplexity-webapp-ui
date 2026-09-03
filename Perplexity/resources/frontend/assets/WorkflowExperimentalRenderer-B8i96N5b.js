@@ -1,0 +1,2 @@
+import"./rolldown-runtime-CNgF_TGW.js";import{$ as e,et as t}from"./vendors-B0VRXiug.js";import{l as n,t as r}from"./ContextSupport-CHmvn4EJ.js";var i=t();e();var a=({payload:e,entry:t})=>{let{services:n}=r(),a=n.experimental?.render({...e,entry:t});return a?(0,i.jsx)(i.Fragment,{children:a}):null};function o({item:e}){return e.type===n.EXPERIMENTAL?(0,i.jsx)(a,{payload:e.payload,entry:e._entry}):null}export{o as default};
+//# sourceMappingURL=WorkflowExperimentalRenderer-B8i96N5b.js.map

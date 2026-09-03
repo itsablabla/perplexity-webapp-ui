@@ -1,0 +1,2 @@
+import{Wn as e}from"../platform-core-D8IQmtf1.js";var t=`/rest/plugins`,n=n=>e.makeQueryKey(t,n),r=e=>typeof e==`object`&&!!e&&`scope`in e&&`limit`in e,i=e=>e.find(r),a=e=>e.includes(t)&&i(e)!==void 0,o=e=>({predicate:({queryKey:t})=>a(t)&&i(t)?.scope===e}),s=t=>e.makeQueryKey(`/rest/plugins`,t);function c(){return`PluginsPageContent`}export{o as i,s as n,n as r,c as t};
+//# sourceMappingURL=restricted-feature-computer-plugins-DSbAYArw.js.map

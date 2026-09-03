@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./useModalContext-LHdJcQ49.js";var r=e(t(),1);function i({modal:e,props:t}){let{openModal:i}=n(),a=(0,r.useRef)(null),o=(0,r.useRef)(t);return o.current=t,(0,r.useEffect)(()=>{if(e)return a.current=i(e,o.current,{replace:!1}),()=>{a.current&&=(a.current.closeModal(),null)}},[e,i]),(0,r.useEffect)(()=>{a.current?.updateModal(t)},[t]),null}var a=(0,r.memo)(i);export{a as t};
+//# sourceMappingURL=DeclarativeModal-D8cbekjx.js.map

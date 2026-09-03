@@ -1,0 +1,2 @@
+var e=(e,t)=>({upsellUUID:t.upsell_uuid,upsellName:t.name??``,upsellType:t.upsell_type,upsellLocation:t.app_location??e,eventMetadata:t.event_metadata}),t=e=>e.upsell_uuid??e.name??[e.app_location,e.title,e.description,e.cta].join(`:`);export{t as n,e as t};
+//# sourceMappingURL=UpsellSlotRenderPlan-B1M8ZeJX.js.map

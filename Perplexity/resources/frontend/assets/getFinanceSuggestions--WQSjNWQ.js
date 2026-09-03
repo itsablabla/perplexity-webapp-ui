@@ -1,0 +1,2 @@
+import{co as e,rn as t,ua as n}from"./platform-core-D8IQmtf1.js";import{t as r}from"./client-DUHQpZe5.js";var i=(e,t)=>[`finance-autosuggest`,e,t],a=async({query:i,reason:a,country:o})=>{try{let{data:n,error:s,response:c}=await r.GET(`/rest/autosuggest/finance/list-autosuggest`,a,{params:{query:{query:i,country:o}},timeoutMs:0});if(s)throw new e(`API_CLIENTS_ERROR`,{cause:s,status:c.status??0});return n.results??t}catch(e){return n.error(e),[]}};export{i as n,a as t};
+//# sourceMappingURL=getFinanceSuggestions--WQSjNWQ.js.map

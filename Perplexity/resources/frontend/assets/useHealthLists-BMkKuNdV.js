@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{r as n}from"./useParsedHealthAttributes-DpJ3Cozz.js";var r=e(t(),1),i=e=>{let{data:t}=n();return(0,r.useMemo)(()=>t?.attributes_config?.find(t=>t.attribute_name===e)?.options??[],[t?.attributes_config,e])};export{i as t};
+//# sourceMappingURL=useHealthLists-BMkKuNdV.js.map

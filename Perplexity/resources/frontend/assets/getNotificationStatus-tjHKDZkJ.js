@@ -1,0 +1,2 @@
+import{ua as e}from"./platform-core-D8IQmtf1.js";import{t}from"./client-CypA-bZO.js";async function n({notification_type:n,reason:r}){try{let{data:e,error:i}=await t.GET(`/rest/notifications/status/{notification_type}`,r,{params:{path:{notification_type:n}}});return i||!e?!1:e.status}catch(t){return e.error(`Failed to get notification status`,t),!1}}export{n as t};
+//# sourceMappingURL=getNotificationStatus-tjHKDZkJ.js.map

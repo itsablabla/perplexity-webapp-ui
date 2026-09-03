@@ -1,0 +1,2 @@
+import{yr as e}from"./platform-core-D8IQmtf1.js";import{x as t}from"./experimentation-mwDkr0yA.js";var n=`new_only`,r=new Set([`legacy_only`,`shadow`,`new_only`]);function i(e){return r.has(e)?e:n}function a(){let{session:r}=e(),a=r?.user?.org_uuid,{variation:o,loading:s}=t({flag:`permissions-platform-shadow-mode`,defaultValue:n});return{mode:a?i(o):n,loading:s}}export{a as t};
+//# sourceMappingURL=usePermissionsPlatformShadowMode-Dvqby62d.js.map

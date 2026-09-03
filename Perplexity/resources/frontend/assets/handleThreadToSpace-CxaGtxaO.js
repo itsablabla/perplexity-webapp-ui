@@ -1,0 +1,2 @@
+function e(e){let{lastResult:t,handleCreateNewSpaceForThread:n}=e;t?.backend_uuid&&n(t.backend_uuid,t.frontend_context_uuid)}export{e as handleThreadToSpace};
+//# sourceMappingURL=handleThreadToSpace-CxaGtxaO.js.map

@@ -1,0 +1,2 @@
+function e(e){return e.viewer_setup_state?.next_action??null}function t(t){return e(t)!==null}function n(t){return e(t)===`none`}export{t as n,n as r,e as t};
+//# sourceMappingURL=sourceSetupState-DKrkdXJs.js.map

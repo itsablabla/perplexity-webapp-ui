@@ -1,0 +1,2 @@
+import{m as e}from"./aether-core-6TfbVOZ_.js";var t={event:`add files from cloud submenu opened`,data:{}},n={event:`connectors and sources submenu opened`,data:{}},r={event:`spaces submenu opened`,data:{}},i={event:`skills submenu opened`,data:{}},a=`plus menu item selected`,o=e;export{i as a,o as i,t as n,r as o,n as r,a as t};
+//# sourceMappingURL=analytics-C1zCcz3j.js.map

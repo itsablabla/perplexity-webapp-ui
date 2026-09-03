@@ -1,0 +1,2 @@
+var e;(function(e){e.SCHEDULED=`scheduled`,e.PRICE_ALERT=`priceAlert`,e.SHORTCUT=`shortcut`})(e||={});var t;(function(e){e.TARGET_PRICE=`targetPrice`,e.MOVEMENT_AMOUNT=`movementAmount`})(t||={});export{t as n,e as t};
+//# sourceMappingURL=types-DuXA_j1c.js.map

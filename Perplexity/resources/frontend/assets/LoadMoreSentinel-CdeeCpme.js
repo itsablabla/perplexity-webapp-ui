@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{z as r}from"./platform-core-D8IQmtf1.js";var i=n(),a=e(t(),1),o=a.memo(function({loadMore:e}){let{ref:t}=r({options:{rootMargin:`50px`,threshold:0},onChange:t=>{t&&e()}});return(0,i.jsx)(`div`,{ref:t,className:`border border-transparent`})}),s=a.memo(function({loadMore:e,count:t}){return(0,i.jsx)(o,{loadMore:e},t)});export{s as t};
+//# sourceMappingURL=LoadMoreSentinel-CdeeCpme.js.map

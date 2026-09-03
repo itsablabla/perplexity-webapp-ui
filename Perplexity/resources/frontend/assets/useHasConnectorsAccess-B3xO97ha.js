@@ -1,0 +1,2 @@
+import{Qt as e}from"./platform-core-D8IQmtf1.js";import{t}from"./useUserOrgData-Bvuob4se.js";var n;(function(e){e.MY_FILES=`my-files`,e.SOURCES=`sources`,e.MY_CONNECTORS=`my-connectors`,e.SPACES=`spaces`})(n||={});function r({feature:r}){let{isEnterprise:i}=t({reason:`useHasConnectorsAccess`}),{hasAccessToProFeatures:a}=e();return!!(r===n.MY_CONNECTORS&&!a&&!i||i||a)}export{r as n,n as t};
+//# sourceMappingURL=useHasConnectorsAccess-B3xO97ha.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,et as n}from"./vendors-B0VRXiug.js";import{_t as r,yt as i}from"./aether-core-6TfbVOZ_.js";import{a,o}from"./sourceBadgeShared-DHjA3fgG.js";var s=n(),c=(0,e(t(),1).memo)(function({trustType:e,label:t}){return(0,s.jsx)(r,{icon:o(e),size:i[`2xs`],className:a(e),"aria-label":t,"aria-hidden":t?void 0:!0})});export{c as t};
+//# sourceMappingURL=TrustIndicator-Boe-eWcp.js.map

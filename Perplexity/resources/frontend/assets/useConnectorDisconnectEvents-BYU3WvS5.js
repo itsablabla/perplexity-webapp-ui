@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t,X as n}from"./vendors-B0VRXiug.js";var r=e(t(),1),i=0,a=n(e=>({lastEvent:null,emitConnectorDisconnect:t=>e({lastEvent:{...t,id:++i}})})),o=e=>{let t=(0,r.useRef)(e);t.current=e,(0,r.useEffect)(()=>a.subscribe((e,n)=>{e.lastEvent===n.lastEvent||!e.lastEvent||t.current(e.lastEvent)}),[])},s=e=>a.getState().emitConnectorDisconnect(e);export{o as n,s as t};
+//# sourceMappingURL=useConnectorDisconnectEvents-BYU3WvS5.js.map

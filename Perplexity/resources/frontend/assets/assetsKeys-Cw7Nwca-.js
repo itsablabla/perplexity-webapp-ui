@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=`/rest/assets/search`,n=(n,r)=>e.makeQueryKey(t,n,r),r=t=>t?e.makeQueryKey(`/rest/assets/pins`,t):e.makeQueryKey(`/rest/assets/pins`),i=t=>t?e.makeQueryKey(`/rest/assets/shared-with-me`,t):e.makeQueryKey(`/rest/assets/shared-with-me`),a=t=>e.makeQueryKey(`/rest/assets/{asset_id}/request-access-info`,t);export{i as a,r as i,n,a as r,t};
+//# sourceMappingURL=assetsKeys-Cw7Nwca-.js.map

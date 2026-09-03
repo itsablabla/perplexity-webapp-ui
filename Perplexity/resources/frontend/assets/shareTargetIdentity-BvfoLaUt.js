@@ -1,0 +1,2 @@
+function e(e){return e.email.trim().toLowerCase()}function t(t){return t.type===`email`?`email:${e(t)}`:t.type===`org_group`?`org_group:${`groupId`in t?t.groupId:t.group_id}`:`org_user:${`orgUserUUID`in t?t.orgUserUUID:t.org_user_uuid}`}export{t as n,e as t};
+//# sourceMappingURL=shareTargetIdentity-BvfoLaUt.js.map

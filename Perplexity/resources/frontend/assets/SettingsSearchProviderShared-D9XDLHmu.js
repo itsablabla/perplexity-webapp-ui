@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{uo as n}from"./platform-core-D8IQmtf1.js";var r=e(t(),1),i=`setting`,a=n(`SettingsSearchContext`,{targetSettingId:null,gate:null}),o=()=>(0,r.useContext)(a).targetSettingId,s=()=>(0,r.useContext)(a).gate;export{o as i,a as n,s as r,i as t};
+//# sourceMappingURL=SettingsSearchProviderShared-D9XDLHmu.js.map

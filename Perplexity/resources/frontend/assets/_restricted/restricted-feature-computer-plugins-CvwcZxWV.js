@@ -1,0 +1,2 @@
+import{t as e}from"../apiErrorMessage-CIbpd2Dp.js";var t={501:`Plugins aren't available for your account yet.`};function n(n,r){return e(n,r,t)}export{n as t};
+//# sourceMappingURL=restricted-feature-computer-plugins-CvwcZxWV.js.map

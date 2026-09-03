@@ -1,0 +1,2 @@
+import"./rolldown-runtime-CNgF_TGW.js";import{$ as e,X as t}from"./vendors-B0VRXiug.js";import{Sr as n}from"./platform-core-D8IQmtf1.js";e();var r=n(`VoiceSessionStoreContext`,()=>t(e=>({isActive:!1,setIsActive:t=>e({isActive:t})}))),i=r.Provider,a=()=>r.useStore();export{a as n,i as t};
+//# sourceMappingURL=voiceSessionStore-CaWz6A--.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./useEffectivePermissions-DaUq9exU.js";function t(t){let n=t?.enabled??!0,{permissions:r,isLoading:i}=e({reason:`useCanManageOrgSettings`,enabled:n});return{canManageOrgSettings:n&&r.has(`org_settings_write`),isLoading:i}}var n=()=>t().canManageOrgSettings;export{t as n,n as t};
+//# sourceMappingURL=useCanManageOrgSettings-D2fAg_Hb.js.map

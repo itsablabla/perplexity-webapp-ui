@@ -1,0 +1,2 @@
+import{co as e,oo as t}from"./platform-core-D8IQmtf1.js";import{t as n}from"./client-CMCU6Htx.js";var r=async({request:r,reason:i})=>{let{data:a,error:o,response:s}=await n.POST(`/rest/media/search-images-for-entry`,i,{body:{entry_uuid:r.entry_uuid,read_write_token:r.read_write_token,limit:r.limit,page:r.page},timeoutMs:t.HIGH});if(o)throw new e(`API_CLIENTS_ERROR`,{cause:o,status:s.status??0});let{media_items:c=[]}=a??{};return{media_items:c}};export{r as t};
+//# sourceMappingURL=getImagesSearchResults-CmL_PmQH.js.map

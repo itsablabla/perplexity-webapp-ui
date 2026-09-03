@@ -1,0 +1,2 @@
+import{Wn as e}from"./platform-core-D8IQmtf1.js";var t=()=>e.makeQueryKey(`/rest/jobs/filters`,{}),n=(t,n,r)=>e.makeQueryKey(`/rest/sources/search`,t,n,r);export{n,t};
+//# sourceMappingURL=utilityKeys-CpxcCFpm.js.map

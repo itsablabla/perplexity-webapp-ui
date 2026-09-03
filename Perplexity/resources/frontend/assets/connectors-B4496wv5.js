@@ -1,0 +1,2 @@
+var e=`/computer/connectors`,t={GCAL_CONNECT:`gcal_connect`,CONNECTOR_COMPLETE:`connector_complete`},n={UPSELL_CONNECTOR:`upsell-connector-channel`},r={GOOGLE:`google`,OUTLOOK:`outlook`},i={GCAL:`gcal`,OUTLOOK:`outlook`,GOOGLE_DRIVE:`google_drive`,ONEDRIVE:`onedrive`,SHAREPOINT:`sharepoint`,DROPBOX:`dropbox`,BOX:`box`,NOTION:`notion`,FACTSET:`factset`};export{i as a,t as i,r as n,e as r,n as t};
+//# sourceMappingURL=connectors-B4496wv5.js.map

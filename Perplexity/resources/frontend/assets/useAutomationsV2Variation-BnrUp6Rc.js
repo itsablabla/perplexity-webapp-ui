@@ -1,0 +1,2 @@
+import{m as e}from"./experimentation-mwDkr0yA.js";var t={web:!1,sidebar:!1},n=e(`automations-v2`),r=e=>n({defaultValue:t,skip:e});export{r as t};
+//# sourceMappingURL=useAutomationsV2Variation-BnrUp6Rc.js.map

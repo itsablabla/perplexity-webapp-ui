@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime-CNgF_TGW.js";var t=e(((e,t)=>{t.exports=n,n.displayName=`hpkp`,n.aliases=[];function n(e){e.languages.hpkp={directive:{pattern:/\b(?:includeSubDomains|max-age|pin-sha256|preload|report-to|report-uri|strict)(?=[\s;=]|$)/i,alias:`property`},operator:/=/,punctuation:/;/}}}));export default t();
+//# sourceMappingURL=hpkp-zwkbDDxh.js.map

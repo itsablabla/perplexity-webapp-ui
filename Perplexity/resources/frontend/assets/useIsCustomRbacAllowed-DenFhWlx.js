@@ -1,0 +1,2 @@
+import{t as e}from"./useUserOrgData-Bvuob4se.js";var t=()=>{let{organization:t,isLoading:n}=e({reason:`useIsCustomRbacAllowed`});return{allowed:t?.custom_rbac_allowed===!0,loading:n}};export{t};
+//# sourceMappingURL=useIsCustomRbacAllowed-DenFhWlx.js.map

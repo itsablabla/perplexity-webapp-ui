@@ -1,0 +1,2 @@
+import{Wn as e,jr as t}from"./platform-core-D8IQmtf1.js";var n=`/rest/credentials/list`,r=({contextUuid:t,collectionUuid:r,scope:i})=>e.makeQueryKey(n,i,t??``,r??``),i=t();export{r as n,i as t};
+//# sourceMappingURL=client-tJi3kNmx.js.map

@@ -1,0 +1,2 @@
+import{g as e,p as t}from"./fileUtils-eo7gLtW_.js";function n(e){return Array.from(e).filter(e=>e.kind===`file`).length}async function r(n,r){let i=[],a=Array.from(n).flatMap(e=>{if(e.kind!==`file`)return[];let n=e.webkitGetAsEntry?.()??null;if(n!==null&&t(n))return[{kind:`directory`,entry:n}];let r=e.getAsFile();return r===null?[]:[{kind:`file`,file:r}]});for(let t of a)if(t.kind===`directory`?i.push(...await e(t.entry,Math.max(0,r-i.length))):i.push(t.file),i.length>r)break;return i}export{r as n,n as t};
+//# sourceMappingURL=dropFiles-7j_qU7cy.js.map

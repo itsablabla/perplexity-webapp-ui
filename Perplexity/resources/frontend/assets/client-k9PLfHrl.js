@@ -1,0 +1,2 @@
+import{r as e}from"./rolldown-runtime-CNgF_TGW.js";import{jr as t}from"./platform-core-D8IQmtf1.js";var n=e({webhooksClient:()=>r}),r=t();export{r as n,n as t};
+//# sourceMappingURL=client-k9PLfHrl.js.map

@@ -1,0 +1,2 @@
+import"./types-DwEo5bII.js";function e(e){if(e.upsellInformation.cta_information?.disallow_close){e.openVisitorLoginUpsell({title:e.upsellInformation.title??void 0,description:e.upsellInformation.description??void 0,origin:e.origin,sheetModalVariant:`full-sheet-blurred`,disallowClose:!0,renderCloseButton:!1});return}e.hardLoginGateVariation===`control`&&e.openVisitorLoginUpsell({title:e.upsellInformation.title,description:e.upsellInformation.description,origin:e.origin})}export{e as handleSignUpOrLogin};
+//# sourceMappingURL=handleSignUpOrLogin-BPE39xBg.js.map

@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{r as n}from"./react-spring_web.modern-BPveiUSS.js";var r=e(t(),1),i={visible:!0,setVisible:()=>void 0,spring:new n(1)},a=(0,r.createContext)(i),o=()=>(0,r.useContext)(a);export{o as t};
+//# sourceMappingURL=ChromeVisibilityProviderShared-h6Lroire.js.map

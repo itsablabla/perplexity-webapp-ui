@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./framer-motion-yHlxGP4d.js";var r=e(t(),1),i=({ref:e,onInView:t,onNotInView:i,once:a=!0})=>{let[o,s]=(0,r.useState)(!1),c=n(e);(0,r.useEffect)(()=>{let e=a?!o:!0;c&&e?(t(),s(!0)):!c&&e&&i&&(i(),s(!0))},[a,o,s,t,c,i])};export{i as t};
+//# sourceMappingURL=useInViewEffect-CJG5xyka.js.map

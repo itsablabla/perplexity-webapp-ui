@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{t as n}from"./useConnectorsMap-CCWSPo7O.js";var r=e(t(),1),i=({reason:e,enabled:t=!0})=>{let{connectorsMap:i}=n({reason:e,enabled:t});return(0,r.useMemo)(()=>({isAllowed:e=>!!i[e],isConnected:e=>i[e]?.connected===!0,getConnectionType:e=>i[e]?.connection_type??null}),[i])};export{i as t};
+//# sourceMappingURL=useConnectorStatus-DlQmrl0M.js.map

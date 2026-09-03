@@ -1,0 +1,2 @@
+import{yr as e}from"./platform-core-D8IQmtf1.js";import{x as t}from"./experimentation-mwDkr0yA.js";var n=`legacy_only`,r=new Set([`legacy_only`,`shadow`,`new_only`]);function i(e){return r.has(e)?e:n}function a(){let{session:r,status:a}=e(),o=!!r?.user?.id,s=a===`loading`||a===`authenticated`&&!o,{variation:c,loading:l}=t({flag:`product-entitlements-shadow-mode`,defaultValue:n,skip:!o});return{mode:i(c),loading:s||o&&l}}export{a as t};
+//# sourceMappingURL=useProductEntitlementsShadowMode-DLjd1oOh.js.map

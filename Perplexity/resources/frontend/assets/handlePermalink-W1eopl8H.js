@@ -1,0 +1,2 @@
+function e(e){let{hideUpsell:t,upsellInformation:n,router:r}=e,{permalink_new_tab:i,permalink:a}=n.cta_information??{};a&&(t?.(),i?window.open(a,`_blank`):r.push(a))}export{e as handlePermalink};
+//# sourceMappingURL=handlePermalink-W1eopl8H.js.map

@@ -1,0 +1,2 @@
+import{t as e}from"./useUserOrgData-Bvuob4se.js";var t=t=>{let{organization:n,isEnterprise:r,isLoading:i}=e({enabled:t?.enabled??!0,reason:`check-upsell-enterprise-consent`});return i?!0:r?!n?.settings?.product_communications_enabled:!1};export{t};
+//# sourceMappingURL=useBlockUpsellForEnterpriseConsent-KHl6cqKM.js.map

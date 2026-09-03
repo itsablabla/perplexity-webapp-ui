@@ -1,0 +1,2 @@
+import{d as e}from"./experimentation-mwDkr0yA.js";var t=e(`is-medical-records-enabled`),n=()=>{let{variation:e,loading:n}=t({defaultValue:!0});return{enabled:e,loading:n}};export{n as t};
+//# sourceMappingURL=useIsMedicalRecordsEnabled-h8_-zRp-.js.map

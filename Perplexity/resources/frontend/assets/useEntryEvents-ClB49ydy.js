@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-CNgF_TGW.js";import{$ as t}from"./vendors-B0VRXiug.js";import{f as n}from"./aether-core-6TfbVOZ_.js";import{t as r}from"./cometUtils-C_-0sXB8.js";import{a as i}from"./ResultsContext-Bn6zf8eN.js";var a=e(t(),1),o=()=>{let{track:e}=n(),t=r(),{firstResult:o}=i(),s=o?.backend_uuid,c=o?.context_uuid,l=(0,a.useCallback)((n,r)=>{e({event:n,data:{entryUUID:s,threadUUID:c,...r,isPerplexityBrowser:t}})},[s,c,t,e]);return(0,a.useMemo)(()=>({trackEvent:l}),[l])};export{o as t};
+//# sourceMappingURL=useEntryEvents-ClB49ydy.js.map
